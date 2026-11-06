@@ -14,7 +14,19 @@ import streamlit as st
 
 BASE = Path(__file__).parent
 DATA = BASE / "data"
-SAVE = BASE / "progresso.json"
+SAVE_DIR = BASE / "progresso"
+SAVE_DIR.mkdir(exist_ok=True)
+
+
+def slug(nome: str) -> str:
+    import re, unicodedata
+    n = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", "-", n.lower()).strip("-")[:40] or "anon"
+
+
+def arquivo_usuario() -> Path | None:
+    u = st.session_state.get("usuario")
+    return SAVE_DIR / f"{u}.json" if u else None
 
 DURACAO_PROVA = 5 * 3600 + 30 * 60      # 5h30 (edital 2026)
 PERMANENCIA_MINIMA = 2 * 3600            # 2h
@@ -63,20 +75,29 @@ def init_state():
                     respostas={}, marcadas=[], redacao="", atual=1, autoavaliacao={})
     for k, v in defaults.items():
         st.session_state.setdefault(k, v)
-    if not st.session_state.get("_carregado") and SAVE.exists():
-        try:
-            dados = json.loads(SAVE.read_text("utf-8"))
-            for k in CAMPOS_SALVOS:
-                if k in dados:
-                    st.session_state[k] = dados[k]
-        except Exception:
-            pass
+    if not st.session_state.get("_carregado"):
+        # cada participante tem sessão própria, identificada por ?u=<nome> na URL
+        u = st.query_params.get("u")
+        if u:
+            st.session_state["usuario"] = slug(u)
+            arq = arquivo_usuario()
+            if arq and arq.exists():
+                try:
+                    dados = json.loads(arq.read_text("utf-8"))
+                    for k in CAMPOS_SALVOS:
+                        if k in dados:
+                            st.session_state[k] = dados[k]
+                except Exception:
+                    pass
     st.session_state["_carregado"] = True
 
 
 def salvar():
+    arq = arquivo_usuario()
+    if not arq:
+        return
     dados = {k: st.session_state.get(k) for k in CAMPOS_SALVOS}
-    SAVE.write_text(json.dumps(dados, ensure_ascii=False, indent=1), "utf-8")
+    arq.write_text(json.dumps(dados, ensure_ascii=False, indent=1), "utf-8")
 
 
 def tempo_restante() -> int:
@@ -290,16 +311,20 @@ As questões são originais, escritas no estilo e na distribuição das últimas
     st.info("Dica de treino real: comece exatamente às 13h30, use só caneta e papel para o rascunho da redação, "
             "não pause o cronômetro e só consulte o gabarito no fim.")
 
+    nome = st.text_input("Seu nome (cada pessoa tem a própria prova; o progresso fica salvo no link)",
+                         value=st.session_state.get("usuario", ""))
     c1, c2 = st.columns(2)
     st.session_state.lingua = c1.radio("Língua estrangeira (escolhida na inscrição)", ["Inglês", "Espanhol"],
                                        index=0 if st.session_state.lingua == "Inglês" else 1, horizontal=True)
     st.session_state.cor = c2.selectbox("Cor do caderno", CORES_CADERNO,
                                         index=CORES_CADERNO.index(st.session_state.cor))
 
-    if SAVE.exists() and st.session_state.fase == "inicio" and st.session_state.respostas:
-        st.warning("Há um progresso salvo de uma tentativa anterior. Iniciar apaga esse progresso.")
+    if nome and (SAVE_DIR / f"{slug(nome)}.json").exists():
+        st.warning("Já existe uma prova salva com esse nome. Iniciar apaga esse progresso.")
 
-    if st.button("▶ Iniciar prova (5h30)", type="primary", width="stretch"):
+    if st.button("▶ Iniciar prova (5h30)", type="primary", width="stretch", disabled=not nome.strip()):
+        st.session_state.usuario = slug(nome)
+        st.query_params["u"] = st.session_state.usuario
         st.session_state.respostas = {}
         st.session_state.marcadas = []
         st.session_state.redacao = ""
@@ -446,8 +471,9 @@ def tela_resultado():
         for k in CAMPOS_SALVOS:
             st.session_state.pop(k, None)
         st.session_state.pop("_confirma", None)
-        if SAVE.exists():
-            SAVE.unlink()
+        arq = arquivo_usuario()
+        if arq and arq.exists():
+            arq.unlink()
         st.session_state["_carregado"] = True
         init_state()
         st.rerun()
