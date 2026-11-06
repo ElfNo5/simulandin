@@ -1,0 +1,44 @@
+{
+  "tema": "Desafios para a proteção de crianças e adolescentes no ambiente digital no Brasil",
+  "justificativa_tema": "Tema mais recorrente no cruzamento de 14 listas de apostas (ago–nov/2026), incluindo um dos professores que acertou o tema de 2025. Combina os três ingredientes clássicos do Inep: grupo vulnerável, lei federal recém-vigente (ECA Digital – Lei 15.211/2025, em vigor desde 17/03/2026) e dado oficial robusto (TIC Kids Online 2025). O Inep ficou em modo mínimo nas redes (defeso eleitoral até 25/10), então não há pista direta no Instagram; esta é a aposta mais fundamentada. Alternativas fortes: uso ético da IA; eventos climáticos extremos; inclusão de neurodivergentes; apostas online.",
+  "instrucoes": "A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo em modalidade escrita formal da língua portuguesa sobre o tema **\"Desafios para a proteção de crianças e adolescentes no ambiente digital no Brasil\"**, apresentando proposta de intervenção que respeite os direitos humanos. Selecione, organize e relacione, de forma coerente e coesa, argumentos e fatos para defesa de seu ponto de vista.",
+  "instrucoes_formais": [
+    "O rascunho da redação deve ser feito no espaço apropriado.",
+    "O texto definitivo deve ser escrito à tinta, na folha própria, em até 30 linhas.",
+    "A redação com até 7 (sete) linhas escritas será considerada \"insuficiente\" e receberá nota zero.",
+    "A redação que fugir ao tema ou que não atender ao tipo dissertativo-argumentativo receberá nota zero.",
+    "A redação que apresentar cópia dos textos motivadores terá o número de linhas copiadas desconsiderado para efeito de correção.",
+    "A redação que apresentar proposta de intervenção que desrespeite os direitos humanos receberá nota zero.",
+    "A redação que apresentar parte do texto deliberadamente desconectada do tema proposto receberá nota zero."
+  ],
+  "textos_motivadores": [
+    {
+      "titulo": "TEXTO I",
+      "corpo": "A pesquisa TIC Kids Online Brasil 2025, realizada pelo Cetic.br, indica que 92% das crianças e dos adolescentes de 9 a 17 anos usam a internet no país — cerca de 24 milhões de pessoas — e que 28% acessaram a rede pela primeira vez até os 6 anos de idade. Entre os usuários de 13 a 17 anos, 89% têm perfil em redes sociais. A pesquisa também aponta que 20% dos adolescentes de 11 a 17 anos já receberam mensagens de conteúdo sexual, que 53% viram promoção de jogos de aposta e que 65% já utilizaram ferramentas de inteligência artificial generativa — 10% deles para falar de problemas pessoais e emoções. Do lado das famílias, apenas 37% dos responsáveis afirmam usar ferramentas de restrição de contatos, e metade declara depender dos próprios filhos para se informar sobre segurança on-line.",
+      "fonte": "Texto elaborado para o simulado com dados do Cetic.br/NIC.br, TIC Kids Online Brasil 2025 (adaptado)."
+    },
+    {
+      "titulo": "TEXTO II",
+      "corpo": "A Lei nº 15.211, de 17 de setembro de 2025, conhecida como ECA Digital ou Estatuto Digital da Criança e do Adolescente, entrou em vigor em 17 de março de 2026. Entre suas determinações estão a verificação efetiva da idade dos usuários (não bastando a autodeclaração), a vinculação obrigatória das contas de menores de 16 anos a um responsável, a oferta de ferramentas de supervisão parental, a restrição de publicidade direcionada e do uso de dados emocionais de menores, a proibição das chamadas \"caixas de recompensa\" pagas em jogos e a remoção célere de conteúdos de exploração e abuso. As plataformas que descumprirem a lei estão sujeitas a multas de até R$ 50 milhões por infração e à suspensão de atividades, sob fiscalização da Autoridade Nacional de Proteção de Dados.",
+      "fonte": "Texto elaborado para o simulado com base na Lei nº 15.211/2025 e em reportagens de março de 2026 (adaptado)."
+    },
+    {
+      "titulo": "TEXTO III",
+      "corpo": "**[Infográfico — descrição]**\n\nTítulo: *Duas velocidades*\n\nBarra 1 (roxa, longa): **89%** — adolescentes de 13 a 17 anos com perfil em rede social.\nBarra 2 (cinza, curta): **37%** — responsáveis que usam alguma ferramenta de restrição ou supervisão.\n\nAo lado das barras, um ícone de criança com um celular na mão e, atrás dela, a silhueta de um adulto olhando para o próprio aparelho.\n\nLegenda: \"A presença dos filhos na rede cresce mais rápido do que a capacidade das famílias de acompanhá-la.\"",
+      "fonte": "Infográfico elaborado para o simulado com dados do Cetic.br (2025)."
+    },
+    {
+      "titulo": "TEXTO IV",
+      "corpo": "Em agosto de 2025, um vídeo de um influenciador digital sobre a \"adultização\" de crianças nas redes — perfis infantis que, geridos por adultos, exibem danças, roupas e comportamentos próprios da vida adulta para atrair audiência e patrocínio — ultrapassou dezenas de milhões de visualizações em poucos dias. A repercussão levou o Congresso a aprovar, em semanas, um projeto que tramitava havia anos. Especialistas ouvidos na época ponderaram que a lei é um avanço, mas que \"nenhuma plataforma, por mais fiscalizada, substitui a presença de um adulto que converse com a criança sobre o que ela vê\"; para eles, o desafio brasileiro é duplo: fazer valer a regra para as empresas e, ao mesmo tempo, enfrentar a desigualdade de tempo, informação e acesso que separa as famílias na mediação do uso das telas.",
+      "fonte": "Texto elaborado para o simulado com base em reportagens de 2025–2026 (adaptado)."
+    }
+  ],
+  "competencias": [
+    {"num": 1, "nome": "Domínio da modalidade escrita formal da língua portuguesa", "descricao": "Ortografia, acentuação, concordância, regência, pontuação, registro formal. Nível 200: no máximo um desvio."},
+    {"num": 2, "nome": "Compreender a proposta e aplicar conceitos para desenvolver o tema no tipo dissertativo-argumentativo", "descricao": "Abordagem completa do tema + repertório sociocultural produtivo (não 'de bolso') + estrutura tese–argumentos–conclusão. Tangenciar o tema limita a 40."},
+    {"num": 3, "nome": "Selecionar, relacionar, organizar e interpretar informações em defesa de um ponto de vista", "descricao": "Projeto de texto estratégico; argumentos desenvolvidos (não só citados); autoria."},
+    {"num": 4, "nome": "Conhecimento dos mecanismos linguísticos necessários para a argumentação", "descricao": "Coesão: conectivos variados e adequados entre e dentro dos parágrafos; referenciação sem repetição."},
+    {"num": 5, "nome": "Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos", "descricao": "Cinco elementos: ação, agente, meio/modo, efeito/finalidade e detalhamento. Articulada ao desenvolvimento."}
+  ],
+  "checklist_proposta": ["Ação (o que fazer)", "Agente (quem faz)", "Meio/modo (como)", "Efeito/finalidade (para quê)", "Detalhamento (de qualquer elemento)"]
+}

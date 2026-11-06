@@ -1,0 +1,452 @@
+[
+  {
+    "numero": 1, "area": "LC", "disciplina": "Inglês", "habilidade": "H5 – ideia global",
+    "texto": "**Why teenagers are quitting social media — and what happens next**\n\nA growing number of teenagers say they have deleted at least one social media app in the past year. Most of them do not describe the decision as a dramatic break. 'I just noticed I was scrolling without wanting to,' says Maya, 16, from Leeds. 'When I deleted it, nothing happened. That was the scary part — nothing happened.' Researchers warn, however, that quitting alone rarely solves the problem: teenagers who leave one platform often migrate to another, and the feeling of being 'always available' remains. The real change, they argue, happens when young people learn to decide *when* they want to be reached, not *whether*.",
+    "fonte": "Texto elaborado para o simulado (adaptado de reportagens de 2025).",
+    "comando": "O relato de Maya sobre a exclusão do aplicativo é usado no texto para evidenciar que",
+    "alternativas": {
+      "A": "o abandono das redes sociais costuma ser uma decisão planejada e sofrida.",
+      "B": "a ausência de consequências visíveis revela o quanto o uso era automático.",
+      "C": "os adolescentes trocam de plataforma para manter o mesmo nível de contato.",
+      "D": "a pressão dos pesquisadores leva os jovens a excluírem aplicativos.",
+      "E": "a sensação de estar sempre disponível desaparece ao apagar um aplicativo."
+    },
+    "gabarito": "B",
+    "comentario": "Maya diz que 'nothing happened' e que isso foi assustador: o uso era tão automático que sua ausência não produziu efeito algum. As demais alternativas invertem ou extrapolam o texto (C e E são contrariadas pelo parágrafo final)."
+  },
+  {
+    "numero": 2, "area": "LC", "disciplina": "Inglês", "habilidade": "H6 – inferência / propósito",
+    "texto": "**Poster seen at a public library in Toronto**\n\nTHIS BOOK HAS NO ALGORITHM.\nIt will not suggest what to read next.\nIt will not count how long you stayed.\nIt will not sell your silence.\n\nBorrow it anyway.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Ao enumerar o que o livro *não* faz, o cartaz constrói sua estratégia persuasiva por meio da",
+    "alternativas": {
+      "A": "comparação implícita com as plataformas digitais.",
+      "B": "descrição técnica das funções de uma biblioteca.",
+      "C": "advertência sobre os riscos da leitura prolongada.",
+      "D": "valorização da velocidade na obtenção de informações.",
+      "E": "promessa de recomendações personalizadas ao leitor."
+    },
+    "gabarito": "A",
+    "comentario": "Cada 'it will not...' remete a um comportamento típico de apps (recomendar, medir tempo, vender dados). O elogio ao livro é feito por contraste implícito com as redes."
+  },
+  {
+    "numero": 3, "area": "LC", "disciplina": "Inglês", "habilidade": "H8 – vocabulário em contexto",
+    "texto": "**Heat is now the deadliest weather event in the United States**\n\nFloods and hurricanes make the headlines, but heat kills more Americans every year than any other weather-related cause — and most of those deaths are invisible. There is no wreckage to film. Victims are usually elderly people living alone, outdoor workers, and residents of neighborhoods with few trees, where asphalt and concrete can push nighttime temperatures 5 °C above those of leafy districts a few blocks away. Scientists call this the 'urban heat island' effect; residents just call it summer.",
+    "fonte": "Texto elaborado para o simulado (dados do NOAA, 2024).",
+    "comando": "No trecho \"residents just call it summer\", a palavra *just* expressa, no contexto,",
+    "alternativas": {
+      "A": "a justiça das medidas adotadas pelas cidades.",
+      "B": "a precisão do vocabulário científico empregado.",
+      "C": "a naturalização de um problema grave pela população.",
+      "D": "a exatidão das temperaturas registradas nos bairros.",
+      "E": "a rapidez com que os moradores percebem o calor."
+    },
+    "gabarito": "C",
+    "comentario": "'Just' ('simplesmente', 'apenas') contrasta o nome técnico dos cientistas com a forma banal como os moradores veem o fenômeno: algo normal, 'o verão'. É a naturalização de um risco mortal."
+  },
+  {
+    "numero": 4, "area": "LC", "disciplina": "Inglês", "habilidade": "H7 – texto visual/multimodal",
+    "texto": "**Infographic: What a 'free' app costs you**\n\n| What you give | What they get |\n|---|---|\n| 3 h 40 min a day of attention | 1,320 ad impressions |\n| Location history | A map of where you sleep, work and pray |\n| Contacts list | Your friends, even those who never signed up |\n| 'I agree' (unread, 11,000 words) | Permission for all of the above |\n\n*If you are not paying for the product, you are the product.*",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A última linha do infográfico, destacada em itálico, funciona como",
+    "alternativas": {
+      "A": "uma síntese do raciocínio apresentado na tabela.",
+      "B": "uma exceção aos dados listados anteriormente.",
+      "C": "uma instrução para o uso correto do aplicativo.",
+      "D": "um elogio ao modelo gratuito de serviços digitais.",
+      "E": "uma correção das informações da coluna da esquerda."
+    },
+    "gabarito": "A",
+    "comentario": "A frase final condensa a lógica da tabela: tudo que o usuário 'dá' é o que a empresa vende; logo, o usuário é o produto."
+  },
+  {
+    "numero": 5, "area": "LC", "disciplina": "Inglês", "habilidade": "H5 – leitura de poema",
+    "texto": "**Inventory**\n\nMy grandmother kept seeds in envelopes,\neach one labelled with a year and a name:\n*Tomato — 1987 — from Rosa.*\nShe never planted them. She said\nthe point of a seed is not the garden\nbut the promise that there could be one.\nI keep her envelopes in a drawer now,\nunopened, labelled, waiting —\nwhich is, I think, what she meant by love.",
+    "fonte": "Poema elaborado para o simulado.",
+    "comando": "No poema, o gesto de guardar as sementes sem plantá-las é ressignificado pelo eu lírico como",
+    "alternativas": {
+      "A": "um desperdício que ele decide corrigir ao cultivá-las.",
+      "B": "uma forma de preservar a possibilidade e o afeto herdado.",
+      "C": "uma crítica ao descaso da avó com a agricultura.",
+      "D": "um hábito supersticioso transmitido entre gerações.",
+      "E": "uma necessidade prática de armazenar alimentos."
+    },
+    "gabarito": "B",
+    "comentario": "A avó diz que a semente vale pela promessa; o eu lírico repete o gesto (guarda os envelopes fechados) e conclui que isso é o que ela chamava de amor: preservar a possibilidade."
+  },
+  {
+    "numero": 1, "area": "LC", "disciplina": "Espanhol", "habilidade": "H5 – ideia global",
+    "texto": "**El pueblo que apagó las pantallas**\n\nEn Lanjarón, un municipio de tres mil habitantes en el sur de España, el ayuntamiento propuso en 2024 un pacto voluntario: ninguna familia regalaría un teléfono inteligente a sus hijos antes de los catorce años. No hubo multas ni prohibiciones; solo una lista pública de familias adheridas. 'Lo difícil no era convencer a los padres', explica la alcaldesa, 'sino que cada padre supiera que no estaría solo'. Dos años después, el 70 % de las familias con niños menores de catorce años forma parte del pacto.",
+    "fonte": "Texto elaborado para o simulado (adaptado de reportagens de 2025).",
+    "comando": "Segundo o texto, o êxito do pacto em Lanjarón deveu-se principalmente",
+    "alternativas": {
+      "A": "à aplicação de multas às famílias que descumprissem o acordo.",
+      "B": "à proibição legal do uso de celulares por menores de catorze anos.",
+      "C": "ao caráter coletivo da adesão, que reduziu o isolamento dos pais.",
+      "D": "à facilidade de convencer individualmente cada uma das famílias.",
+      "E": "ao pequeno número de crianças existentes no município."
+    },
+    "gabarito": "C",
+    "comentario": "A alcaldesa afirma que o difícil era cada pai saber que 'no estaría solo': a lista pública criou adesão coletiva. Não houve multas nem proibição (A e B)."
+  },
+  {
+    "numero": 2, "area": "LC", "disciplina": "Espanhol", "habilidade": "H6 – inferência",
+    "texto": "**Cartel en una estación de metro de Ciudad de México**\n\nSI VES ALGO, DI ALGO.\nSi no ves nada, mira otra vez:\nla violencia contra las mujeres también viaja en silencio.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A segunda parte do cartaz amplia a mensagem da primeira ao sugerir que",
+    "alternativas": {
+      "A": "a denúncia só deve ocorrer diante de agressões evidentes.",
+      "B": "o silêncio das vítimas confirma a ausência de violência.",
+      "C": "a atenção do passageiro deve alcançar o que não é explícito.",
+      "D": "o transporte público é o único lugar onde ocorre violência.",
+      "E": "as mulheres devem evitar viajar sozinhas no metrô."
+    },
+    "gabarito": "C",
+    "comentario": "'Si no ves nada, mira otra vez' pede um segundo olhar: a violência pode estar presente de forma silenciosa, não evidente."
+  },
+  {
+    "numero": 3, "area": "LC", "disciplina": "Espanhol", "habilidade": "H8 – vocabulário em contexto",
+    "texto": "**Columna de opinión**\n\nHay una palabra que se repite en cada reunión de padres: 'adultización'. Niñas de nueve años que bailan coreografías pensadas para adultos, niños que hablan de 'marcas personales' antes de aprender a dividir. No es que los niños quieran ser mayores — siempre lo han querido —; es que ahora alguien gana dinero cada vez que lo intentan. El problema no es el deseo infantil de crecer, sino el negocio que se ha montado encima de ese deseo.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "No trecho \"el negocio que se ha montado encima de ese deseo\", a expressão *montado encima* indica que o lucro",
+    "alternativas": {
+      "A": "substitui o desejo das crianças de crescer.",
+      "B": "se apoia e explora uma vontade preexistente.",
+      "C": "impede que as crianças desejem a vida adulta.",
+      "D": "é condenado pelos pais nas reuniões escolares.",
+      "E": "nasce espontaneamente entre as próprias crianças."
+    },
+    "gabarito": "B",
+    "comentario": "'Montar encima de' = instalar-se sobre algo já existente. O autor diz que o desejo de crescer sempre existiu; o novo é o negócio que se aproveita dele."
+  },
+  {
+    "numero": 4, "area": "LC", "disciplina": "Espanhol", "habilidade": "H7 – gênero textual",
+    "texto": "**Receta de la abuela — versión 2026**\n\nIngredientes: una mesa, cuatro sillas, cero pantallas.\nPreparación: se sirve la comida, se guardan los teléfonos en una cesta y se espera. Al principio nadie habla. A los diez minutos, alguien cuenta algo del día. A los veinte, alguien se ríe. Dejar reposar.\nRendimiento: una familia.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O efeito de humor e de crítica do texto decorre",
+    "alternativas": {
+      "A": "da listagem fiel de ingredientes de um prato tradicional.",
+      "B": "do uso da estrutura do gênero receita para falar de convivência.",
+      "C": "da descrição técnica do tempo de cozimento dos alimentos.",
+      "D": "do elogio às novas tecnologias presentes na cozinha.",
+      "E": "da explicação científica sobre o funcionamento do riso."
+    },
+    "gabarito": "B",
+    "comentario": "O texto parodia o gênero receita (ingredientes, preparação, rendimento) para tratar da convivência familiar sem celulares — intergenericidade com fim crítico."
+  },
+  {
+    "numero": 5, "area": "LC", "disciplina": "Espanhol", "habilidade": "H5 – leitura de poema",
+    "texto": "**Herencia**\n\nMi abuela guardaba semillas en sobres,\ncada uno con un año y un nombre:\n*Tomate — 1987 — de Rosa.*\nNunca las sembró. Decía\nque lo importante de una semilla no es el huerto,\nsino la promesa de que podría haber uno.\nHoy guardo sus sobres en un cajón,\ncerrados, con sus nombres, esperando —\ny creo que a eso ella lo llamaba amor.",
+    "fonte": "Poema elaborado para o simulado.",
+    "comando": "No poema, o gesto de guardar as sementes sem plantá-las é ressignificado pelo eu lírico como",
+    "alternativas": {
+      "A": "um desperdício que ele decide corrigir ao cultivá-las.",
+      "B": "uma forma de preservar a possibilidade e o afeto herdado.",
+      "C": "uma crítica ao descaso da avó com a agricultura.",
+      "D": "um hábito supersticioso transmitido entre gerações.",
+      "E": "uma necessidade prática de armazenar alimentos."
+    },
+    "gabarito": "B",
+    "comentario": "A avó diz que a semente vale pela promessa; o eu lírico repete o gesto e conclui que isso era o que ela chamava de amor."
+  },
+  {
+    "numero": 6, "area": "LC", "disciplina": "Literatura", "habilidade": "H16 – estética literária",
+    "texto": "> Ao vencedor, as batatas!\n\nA frase, que Quincas Borba ensina a Rubião no romance homônimo de Machado de Assis (1891), resume a filosofia do \"Humanitas\": se duas tribos disputam um campo de batatas e só uma pode sobreviver, a vitória de uma delas não é crueldade, mas a própria vida afirmando-se. A ideia, apresentada com toda a seriedade por um personagem que enlouquece, é um dos exemplos mais conhecidos da ironia machadiana.",
+    "fonte": "Texto elaborado para o simulado; citação de MACHADO DE ASSIS. *Quincas Borba*, 1891 (domínio público).",
+    "comando": "A ironia do narrador em relação ao \"Humanitas\" revela-se principalmente",
+    "alternativas": {
+      "A": "pela adesão explícita de Machado às teorias darwinistas da época.",
+      "B": "pela atribuição de um sistema filosófico ambicioso a um personagem que perde a razão.",
+      "C": "pela escolha de um tema rural, distante das preocupações da elite do Rio.",
+      "D": "pela defesa da caridade cristã como resposta à disputa pelas batatas.",
+      "E": "pela ausência de qualquer comentário do narrador sobre as ideias de Quincas."
+    },
+    "gabarito": "B",
+    "comentario": "Machado não endossa o Humanitas: a ironia está em colocar uma teoria que legitima a lei do mais forte (paródia do darwinismo social) na boca de um filósofo que enlouquece — e em ver Rubião levá-la a sério."
+  },
+  {
+    "numero": 7, "area": "LC", "disciplina": "Literatura", "habilidade": "H15 – vanguardas / Modernismo",
+    "texto": "**Pronominais**\n\nDê-me um cigarro\nDiz a gramática\nDo professor e do aluno\nE do mulato sabido\nMas o bom negro e o bom branco\nDa Nação Brasileira\nDizem todos os dias\nDeixa disso camarada\nMe dá um cigarro",
+    "fonte": "ANDRADE, Oswald de. *Pau-Brasil*, 1925 (domínio público).",
+    "comando": "No poema, ao contrapor \"Dê-me um cigarro\" a \"Me dá um cigarro\", Oswald de Andrade",
+    "alternativas": {
+      "A": "corrige o erro de colocação pronominal cometido pelo povo.",
+      "B": "defende a norma gramatical como símbolo da identidade nacional.",
+      "C": "legitima a fala cotidiana brasileira como matéria da poesia modernista.",
+      "D": "ironiza o uso do pronome oblíquo pelos falantes cultos apenas.",
+      "E": "reproduz a fala dos professores para valorizar a escola tradicional."
+    },
+    "gabarito": "C",
+    "comentario": "Programa do Modernismo de 22: incorporar a língua falada ('a contribuição milionária de todos os erros'). A próclise popular é colocada como a fala real da 'Nação Brasileira', contra a gramática escolar."
+  },
+  {
+    "numero": 8, "area": "LC", "disciplina": "Literatura", "habilidade": "H16 – Simbolismo",
+    "texto": "**Violões que choram...** (fragmento)\n\nVozes veladas, veludosas vozes,\nVolúpias dos violões, vozes veladas,\nVagam nos velhos vórtices velozes\nDos ventos, vivas, vãs, vulcanizadas.",
+    "fonte": "CRUZ E SOUSA. *Faróis*, 1900 (domínio público).",
+    "comando": "O efeito expressivo dominante nesse fragmento é construído pela",
+    "alternativas": {
+      "A": "narração objetiva de um acontecimento cotidiano.",
+      "B": "repetição de fonemas que sugere a sonoridade do instrumento.",
+      "C": "descrição precisa e científica das cordas do violão.",
+      "D": "defesa de uma tese política sobre a música popular.",
+      "E": "ausência de recursos sonoros em favor da clareza lógica."
+    },
+    "gabarito": "B",
+    "comentario": "Aliteração em /v/ e assonâncias criam musicalidade — marca do Simbolismo, que privilegia a sugestão sensorial e sonora sobre a descrição lógica."
+  },
+  {
+    "numero": 9, "area": "LC", "disciplina": "Literatura", "habilidade": "H17 – literatura contemporânea / vozes negras",
+    "texto": "Em obras recentes da literatura brasileira, escritoras negras têm recorrido ao termo *escrevivência* para nomear uma escrita que parte da experiência vivida — individual e coletiva — de mulheres negras, sem se confundir com mera autobiografia. Nessa perspectiva, narrar a própria vida é também narrar a memória de um grupo historicamente silenciado, e o texto literário assume a função de registro e de denúncia.",
+    "fonte": "Texto elaborado para o simulado com base no conceito proposto por Conceição Evaristo.",
+    "comando": "De acordo com o texto, a *escrevivência* distingue-se da autobiografia tradicional porque",
+    "alternativas": {
+      "A": "renuncia a qualquer dado da vida pessoal da autora.",
+      "B": "privilegia a ficção científica como forma de denúncia.",
+      "C": "articula a experiência individual à memória de uma coletividade.",
+      "D": "exige que a narradora seja uma personagem fictícia.",
+      "E": "restringe-se ao relato de acontecimentos históricos oficiais."
+    },
+    "gabarito": "C",
+    "comentario": "O texto define escrevivência como escrita da experiência 'individual e coletiva', em que narrar a si é narrar a memória do grupo."
+  },
+  {
+    "numero": 10, "area": "LC", "disciplina": "Literatura", "habilidade": "H16 – Romantismo / Naturalismo",
+    "texto": "**Texto I**\n\nPersonagem de romance brasileiro de 1875: um jovem de origem humilde que, ao contrário de seus pais, aprende a ler, apaixona-se pela filha do patrão e é descrito pelo narrador como alguém cujo \"coração nobre\" compensa a falta de berço.\n\n**Texto II**\n\nPersonagem de romance brasileiro de 1890: um trabalhador de cortiço cujas ações o narrador explica pelo clima, pela herança e pelo meio em que vive, comparando-o a \"uma planta que se adapta ao terreno\".",
+    "fonte": "Textos elaborados para o simulado.",
+    "comando": "A comparação entre os modos de construção das personagens revela a passagem",
+    "alternativas": {
+      "A": "do idealismo romântico ao determinismo naturalista.",
+      "B": "da objetividade realista ao sentimentalismo barroco.",
+      "C": "da estética parnasiana ao experimentalismo modernista.",
+      "D": "do regionalismo de 1930 ao concretismo dos anos 1950.",
+      "E": "da sátira arcádica à introspecção simbolista."
+    },
+    "gabarito": "A",
+    "comentario": "Texto I: herói idealizado pelo caráter ('coração nobre') — Romantismo. Texto II: comportamento explicado por meio, raça e momento — Naturalismo (lembra *O Cortiço*, 1890)."
+  },
+  {
+    "numero": 11, "area": "LC", "disciplina": "Literatura", "habilidade": "H17 – função social da literatura / canção",
+    "texto": "Um compositor de samba, entrevistado em 2025, explicou por que suas letras recentes falam de aplicativos de entrega, aluguel atrasado e bairros sem saneamento: \"O samba sempre contou a vida do morro e do subúrbio. Se a vida mudou de cara, a letra muda de cara. Mas a cadência é a mesma: a gente ri do que dói para não parar de andar.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A fala do compositor evidencia que, no samba, a continuidade da tradição se dá pela",
+    "alternativas": {
+      "A": "preservação integral dos temas das primeiras gerações de sambistas.",
+      "B": "substituição da crítica social por temas puramente festivos.",
+      "C": "atualização das temáticas mantida a atitude de resistência pelo humor.",
+      "D": "eliminação do ritmo tradicional em favor de sonoridades eletrônicas.",
+      "E": "adoção de uma linguagem técnica distante do cotidiano popular."
+    },
+    "gabarito": "C",
+    "comentario": "Os temas mudam ('a letra muda de cara'), mas a 'cadência' e a atitude ('ri do que dói') permanecem — tradição como atualização, não repetição."
+  },
+  {
+    "numero": 12, "area": "LC", "disciplina": "Língua Portuguesa – variação linguística", "habilidade": "H25 – variação / preconceito linguístico",
+    "texto": "Em uma audiência pública sobre educação, uma professora relatou: \"Quando um aluno diz 'nós vai' e é corrigido na frente da turma, ele não aprende a concordância — aprende a ficar calado. A escola precisa ensinar a norma-padrão, sim, mas como mais uma variedade que o aluno passa a dominar, não como a única forma legítima de existir na língua.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A posição defendida pela professora fundamenta-se na ideia de que",
+    "alternativas": {
+      "A": "a norma-padrão deve ser abolida do ensino escolar.",
+      "B": "a variedade popular é incapaz de expressar raciocínios complexos.",
+      "C": "o domínio da norma-padrão amplia o repertório sem anular a variedade de origem.",
+      "D": "a correção pública é o método mais eficaz de ensino de gramática.",
+      "E": "as variedades regionais devem substituir a norma nos documentos oficiais."
+    },
+    "gabarito": "C",
+    "comentario": "'Ensinar a norma-padrão, sim, mas como mais uma variedade': a escola amplia o repertório, sem estigmatizar a fala de origem (combate ao preconceito linguístico)."
+  },
+  {
+    "numero": 13, "area": "LC", "disciplina": "Língua Portuguesa – funções da linguagem", "habilidade": "H18 – funções da linguagem",
+    "texto": "**Mensagem automática exibida em um aplicativo de transporte**\n\n\"Oi! Percebemos que você ficou 40 segundos sem tocar na tela. Está tudo bem por aí? Toque em 'Continuar' para seguirmos juntos. 🙂\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Predomina nessa mensagem a função da linguagem",
+    "alternativas": {
+      "A": "metalinguística, pois explica o funcionamento do código.",
+      "B": "fática, pois testa e mantém o canal de comunicação com o usuário.",
+      "C": "referencial, pois informa dados objetivos sobre a corrida.",
+      "D": "poética, pois explora a sonoridade das palavras.",
+      "E": "emotiva, pois expressa os sentimentos do motorista."
+    },
+    "gabarito": "B",
+    "comentario": "'Está tudo bem por aí?', 'toque para seguirmos': a mensagem verifica se o contato continua — função fática. O tom afetivo é estratégia, não expressão do emissor."
+  },
+  {
+    "numero": 14, "area": "LC", "disciplina": "Língua Portuguesa – interpretação / gênero", "habilidade": "H22 – gêneros digitais",
+    "texto": "**Comentários sob um vídeo de receita (8 min) em uma rede social**\n\n*usuário1:* resumo pra quem tem pressa: farinha, ovo, forno 180, 25 min. de nada.\n*usuário2:* obrigada, não aguento mais vídeo que conta a história da vó antes da receita\n*autora do vídeo:* a história da vó É a receita, gente. mas tá bom, vou botar os ingredientes na descrição.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A resposta da autora do vídeo evidencia um conflito entre",
+    "alternativas": {
+      "A": "a exigência de precisão técnica e a imprecisão das medidas da receita.",
+      "B": "o valor atribuído à narrativa e a expectativa de consumo rápido da informação.",
+      "C": "a autoridade das avós e a competência dos jovens na cozinha.",
+      "D": "o formato de vídeo e a impossibilidade de escrever receitas.",
+      "E": "a gratuidade do conteúdo e a cobrança pelos ingredientes."
+    },
+    "gabarito": "B",
+    "comentario": "Os usuários querem o 'resumo'; a autora afirma que a história (narrativa, afeto) é parte essencial — conflito entre tempo de atenção na rede e valor do relato. Ela cede parcialmente (descrição)."
+  },
+  {
+    "numero": 15, "area": "LC", "disciplina": "Língua Portuguesa – coesão", "habilidade": "H20 – coesão / referenciação",
+    "texto": "Durante décadas, a cidade tratou o rio como fundo de quintal: canalizou-o, cobriu-o, esqueceu-o. Quando as chuvas de 2024 o devolveram às ruas, muitos moradores descobriram que havia um rio ali. **Isso** explica, em parte, a surpresa — e a revolta — diante de um fenômeno que os mapas antigos já anunciavam.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "No texto, o pronome destacado \"Isso\" retoma",
+    "alternativas": {
+      "A": "as chuvas de 2024, responsáveis pela inundação.",
+      "B": "a revolta dos moradores com a prefeitura.",
+      "C": "o apagamento histórico do rio pela cidade.",
+      "D": "os mapas antigos consultados pelos técnicos.",
+      "E": "a canalização recente do curso d'água."
+    },
+    "gabarito": "C",
+    "comentario": "'Isso' é anafórico e condensa todo o período anterior: o rio foi canalizado, coberto e esquecido — por isso a surpresa. A canalização é antiga, não recente (E)."
+  },
+  {
+    "numero": 16, "area": "LC", "disciplina": "Língua Portuguesa – argumentação", "habilidade": "H21 – estratégias argumentativas",
+    "texto": "**Trecho de editorial**\n\nDiz-se que proibir celulares na escola é \"tapar o sol com a peneira\", já que os alunos continuarão conectados fora dela. O argumento soa sensato, mas prova demais: pela mesma lógica, não deveríamos proibir o cigarro em ambientes fechados, pois as pessoas continuariam fumando na rua. A escola não é o mundo; é um espaço com regras próprias, e definir o que entra nela é exatamente o seu papel.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Para refutar o argumento contrário, o editorial recorre à estratégia de",
+    "alternativas": {
+      "A": "apresentar dados estatísticos sobre o uso de celulares.",
+      "B": "citar uma autoridade científica na área de educação.",
+      "C": "levar o raciocínio adversário a uma consequência inaceitável por analogia.",
+      "D": "apelar ao sentimento de nostalgia dos leitores mais velhos.",
+      "E": "desqualificar moralmente quem defende o uso de celulares."
+    },
+    "gabarito": "C",
+    "comentario": "'Prova demais': o editorial mostra que, aplicado a outro caso (cigarro), o argumento leva a uma conclusão absurda — redução ao absurdo via analogia."
+  },
+  {
+    "numero": 17, "area": "LC", "disciplina": "Língua Portuguesa – interpretação (crônica)", "habilidade": "H23 – crônica (testlet 1/4)",
+    "texto": "**O homem que atrasava o relógio** (crônica elaborada para o simulado)\n\nMeu vizinho do 302 atrasa todos os relógios da casa em sete minutos. Não é distração: é método. \"Assim eu chego sempre adiantado\", explicou-me no elevador, com a serenidade de quem revelou uma lei da física. Perguntei se, sabendo dos sete minutos, ele não os descontava mentalmente. \"Desconto. Mas aí penso: e se hoje eu esqueci de atrasar? E saio antes.\" Fiquei alguns andares calado, tentando entender se ele enganava o relógio ou a si mesmo. Concluí que as duas coisas — e que talvez seja esse o segredo dos pontuais: não confiam em ninguém, muito menos neles próprios. Desde então, chego atrasado com uma culpa nova: a de não ter inventado um truque.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O humor da crônica constrói-se, sobretudo, a partir",
+    "alternativas": {
+      "A": "da descrição objetiva do funcionamento de relógios analógicos.",
+      "B": "do contraste entre a seriedade do vizinho e a lógica frágil de seu método.",
+      "C": "da crítica explícita do narrador à falta de pontualidade dos brasileiros.",
+      "D": "do uso de termos técnicos da física para explicar o atraso.",
+      "E": "da narração de um acidente ocorrido dentro do elevador."
+    },
+    "gabarito": "B",
+    "comentario": "O vizinho fala 'com a serenidade de quem revelou uma lei da física' sobre um truque que ele mesmo sabe ser furado — o riso nasce desse descompasso."
+  },
+  {
+    "numero": 18, "area": "LC", "disciplina": "Língua Portuguesa – interpretação (crônica)", "habilidade": "H23 – crônica (testlet 2/4)",
+    "texto": "*(Releia a crônica \"O homem que atrasava o relógio\", na questão 17.)*",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "No trecho \"Fiquei alguns andares calado\", o narrador produz um efeito expressivo ao",
+    "alternativas": {
+      "A": "medir o silêncio por uma unidade de espaço, e não de tempo.",
+      "B": "empregar um termo técnico de arquitetura em sentido literal.",
+      "C": "revelar que o prédio tinha poucos andares.",
+      "D": "indicar que o elevador estava parado por defeito.",
+      "E": "substituir o verbo 'falar' por um sinônimo mais formal."
+    },
+    "gabarito": "A",
+    "comentario": "'Alguns andares' funciona como medida de duração (metonímia espaço/tempo), coerente com uma crônica sobre a relatividade do tempo."
+  },
+  {
+    "numero": 19, "area": "LC", "disciplina": "Língua Portuguesa – interpretação (crônica)", "habilidade": "H23 – crônica (testlet 3/4)",
+    "texto": "*(Releia a crônica \"O homem que atrasava o relógio\", na questão 17.)*",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A conclusão do narrador sobre \"o segredo dos pontuais\" caracteriza-se por",
+    "alternativas": {
+      "A": "uma generalização irônica a partir de um único caso observado.",
+      "B": "uma comprovação científica baseada em pesquisa de campo.",
+      "C": "uma condenação moral severa dos pontuais.",
+      "D": "um elogio sincero à confiança que os pontuais têm em si mesmos.",
+      "E": "uma retratação do narrador quanto à sua opinião inicial."
+    },
+    "gabarito": "A",
+    "comentario": "De um vizinho, o narrador deriva uma 'lei' sobre todos os pontuais ('não confiam em ninguém') — generalização deliberadamente exagerada, típica do tom irônico da crônica."
+  },
+  {
+    "numero": 20, "area": "LC", "disciplina": "Língua Portuguesa – interpretação (crônica)", "habilidade": "H23 – crônica (testlet 4/4)",
+    "texto": "*(Releia a crônica \"O homem que atrasava o relógio\", na questão 17.)*",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A frase final da crônica revela que o narrador",
+    "alternativas": {
+      "A": "passou a atrasar seus relógios após a conversa.",
+      "B": "deixou de se atrasar graças ao exemplo do vizinho.",
+      "C": "continua atrasado, mas agora com um motivo adicional de desconforto.",
+      "D": "decidiu confrontar o vizinho sobre a falsidade do método.",
+      "E": "considera a pontualidade um valor irrelevante."
+    },
+    "gabarito": "C",
+    "comentario": "'Chego atrasado com uma culpa nova': nada mudou no comportamento; mudou apenas a autocrítica — ele agora se culpa por não ter um truque."
+  },
+  {
+    "numero": 21, "area": "LC", "disciplina": "Artes", "habilidade": "H12 – arte e identidade",
+    "texto": "Em 2026, comemoram-se 140 anos do nascimento de Tarsila do Amaral. Em telas como *Abaporu* (1928), a pintora combinou a deformação das proporções, aprendida com as vanguardas europeias, a cores e temas ligados ao Brasil interiorano — cactos, sol, figuras de pés enormes plantados no chão. A obra inspirou o Manifesto Antropófago, que propunha \"devorar\" a cultura estrangeira para transformá-la em algo nacional.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A relação entre a obra de Tarsila e o Manifesto Antropófago, descrita no texto, baseia-se na ideia de",
+    "alternativas": {
+      "A": "rejeição total de qualquer influência artística europeia.",
+      "B": "cópia fiel dos modelos acadêmicos ensinados em Paris.",
+      "C": "apropriação crítica de técnicas estrangeiras para expressar o Brasil.",
+      "D": "abandono dos temas nacionais em favor da abstração pura.",
+      "E": "retorno ao naturalismo descritivo do século XIX."
+    },
+    "gabarito": "C",
+    "comentario": "'Devorar' = assimilar e transformar: técnica das vanguardas (deformação) a serviço de temas e cores brasileiros — a lógica antropofágica."
+  },
+  {
+    "numero": 22, "area": "LC", "disciplina": "Artes", "habilidade": "H14 – arte afro-brasileira / patrimônio",
+    "texto": "Um museu nordestino reorganizou, em 2025, sua exposição permanente: esculturas religiosas de matriz africana, antes exibidas na sala de \"artesanato popular\", passaram para a galeria principal, ao lado de obras barrocas, com fichas que identificam os artistas pelo nome. A diretora explicou que \"anônimo\" era, muitas vezes, apenas uma forma de dizer \"negro\".",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A mudança curatorial descrita no texto tem como principal efeito",
+    "alternativas": {
+      "A": "reduzir o valor histórico das obras barrocas expostas.",
+      "B": "reconhecer a autoria e o estatuto artístico de produções antes marginalizadas.",
+      "C": "separar definitivamente arte religiosa de arte profana.",
+      "D": "restringir o acesso do público às peças de matriz africana.",
+      "E": "classificar as esculturas como objetos de uso cotidiano."
+    },
+    "gabarito": "B",
+    "comentario": "Sair de 'artesanato' para a galeria principal e nomear os autores desfaz a hierarquia que marginalizava a produção afro-brasileira e apagava seus artistas."
+  },
+  {
+    "numero": 23, "area": "LC", "disciplina": "Educação Física", "habilidade": "H10 – corpo, saúde e cultura",
+    "texto": "Pesquisa divulgada em 2025 mostrou que adolescentes brasileiros passam, em média, mais de sete horas diárias diante de telas, e que a prática de atividade física recomendada (60 minutos por dia) é atingida por menos de 20% deles. Profissionais de educação física apontam que, nas escolas, o tempo de aula prática vem sendo reduzido e que muitas quadras funcionam apenas como pátio de recreio.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Uma medida escolar coerente com o diagnóstico do texto é",
+    "alternativas": {
+      "A": "substituir as aulas práticas por conteúdos teóricos sobre anatomia.",
+      "B": "ampliar o tempo de prática corporal orientada e o uso dos espaços esportivos.",
+      "C": "restringir a educação física aos alunos com melhor desempenho.",
+      "D": "liberar o uso de celulares durante as aulas na quadra.",
+      "E": "transferir a responsabilidade pela atividade física exclusivamente às famílias."
+    },
+    "gabarito": "B",
+    "comentario": "O diagnóstico (pouca atividade, aulas reduzidas, quadras ociosas) pede mais prática orientada e uso dos espaços — não menos."
+  },
+  {
+    "numero": 24, "area": "LC", "disciplina": "Educação Física", "habilidade": "H9 – esporte e inclusão",
+    "texto": "Em 2024, uma competição de surfe adaptado reuniu atletas com diferentes deficiências em uma praia do litoral paulista. Uma das competidoras, cadeirante, declarou: \"No mar, a cadeira fica na areia. A onda não pergunta se você anda.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A fala da atleta expressa uma concepção de esporte adaptado como",
+    "alternativas": {
+      "A": "atividade terapêutica restrita ao ambiente hospitalar.",
+      "B": "prática que suspende, no momento da ação, a barreira que define a deficiência.",
+      "C": "competição em que a deficiência determina o resultado.",
+      "D": "modalidade que exige a eliminação de todos os riscos.",
+      "E": "exercício individual sem dimensão social ou identitária."
+    },
+    "gabarito": "B",
+    "comentario": "'A onda não pergunta se você anda': no mar, a condição que socialmente define a atleta deixa de ser critério — o esporte como espaço de igualdade na prática."
+  },
+  {
+    "numero": 25, "area": "LC", "disciplina": "Tecnologias da informação", "habilidade": "H3 – TIC / algoritmos",
+    "texto": "Um documentário de 2025 explica que os sistemas de recomendação das redes sociais não escolhem o que é \"melhor\" para o usuário, mas o que tem maior probabilidade de mantê-lo na tela. Como conteúdos que provocam indignação geram mais reações, eles tendem a ser mais exibidos — mesmo que o próprio usuário, perguntado, diga que preferiria ver outra coisa.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "De acordo com o texto, o critério central dos algoritmos de recomendação é",
+    "alternativas": {
+      "A": "a qualidade informativa do conteúdo, avaliada por especialistas.",
+      "B": "a preferência declarada pelos usuários em pesquisas de opinião.",
+      "C": "a capacidade do conteúdo de prolongar o tempo de permanência na plataforma.",
+      "D": "a neutralidade política das publicações exibidas.",
+      "E": "a ordem cronológica em que os conteúdos foram publicados."
+    },
+    "gabarito": "C",
+    "comentario": "O texto é explícito: o que importa é a probabilidade de manter o usuário na tela ('engajamento'), não a qualidade nem a preferência declarada."
+  }
+]

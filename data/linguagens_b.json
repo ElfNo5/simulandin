@@ -1,0 +1,302 @@
+[
+  {
+    "numero": 26, "area": "LC", "disciplina": "Literatura", "habilidade": "H16 – Modernismo (2ª geração) / poema",
+    "texto": "**Poema sem título** (elaborado para o simulado, à maneira dos poetas modernistas de 1930)\n\nNo meio da rua tinha uma fila.\nTinha uma fila no meio da rua.\nEra a fila do emprego, a fila do pão,\na fila da senha que dava direito a outra fila.\nNunca me esquecerei desse acontecimento:\nninguém reclamou.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O verso final, \"ninguém reclamou\", produz um efeito de",
+    "alternativas": {
+      "A": "alívio, por indicar que a fila andou rapidamente.",
+      "B": "crítica, ao apontar a resignação diante de uma situação degradante.",
+      "C": "elogio à educação e à paciência do povo brasileiro.",
+      "D": "humor leve, sem intenção de denúncia social.",
+      "E": "nostalgia de um tempo em que não havia filas."
+    },
+    "gabarito": "B",
+    "comentario": "A repetição obsessiva (eco de 'No meio do caminho', de Drummond) e a frase seca final apontam o conformismo como o verdadeiro 'acontecimento' inesquecível — denúncia, não elogio."
+  },
+  {
+    "numero": 27, "area": "LC", "disciplina": "Literatura", "habilidade": "H17 – literatura indígena contemporânea",
+    "texto": "Um escritor indígena, ao lançar seu livro em 2025, afirmou: \"Minha avó nunca escreveu uma palavra e foi a maior narradora que conheci. Quando eu escrevo em português, não estou traduzindo a oralidade para o papel — estou pedindo licença a ela para que o papel aprenda a ouvir.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A fala do escritor propõe uma relação entre oralidade e escrita marcada pela",
+    "alternativas": {
+      "A": "superioridade da escrita como forma definitiva de registro.",
+      "B": "substituição da língua indígena pelo português literário.",
+      "C": "subordinação da escrita à tradição oral, que a precede e a orienta.",
+      "D": "incompatibilidade total entre os dois modos de narrar.",
+      "E": "rejeição da figura da avó como fonte de autoridade."
+    },
+    "gabarito": "C",
+    "comentario": "'Pedir licença' e fazer 'o papel aprender a ouvir' colocam a escrita a serviço da oralidade, não o contrário."
+  },
+  {
+    "numero": 28, "area": "LC", "disciplina": "Literatura", "habilidade": "H15 – Pré-Modernismo / Lima Barreto",
+    "texto": "Em *Triste Fim de Policarpo Quaresma* (1915), Lima Barreto apresenta um funcionário público que, por amor ao Brasil, propõe ao Congresso a adoção do tupi como língua oficial, planta uma roça segundo técnicas \"nacionais\" e, por fim, alista-se para defender o governo durante a Revolta da Armada. Em cada etapa, seu idealismo colide com a burocracia, a natureza e a violência do Estado, até o desfecho trágico.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A trajetória de Policarpo Quaresma, descrita no texto, permite ler o romance como",
+    "alternativas": {
+      "A": "uma exaltação do nacionalismo ufanista da Primeira República.",
+      "B": "uma crítica à distância entre o Brasil idealizado e o Brasil real.",
+      "C": "um manual prático de técnicas agrícolas tradicionais.",
+      "D": "uma defesa da monarquia contra os militares republicanos.",
+      "E": "uma narrativa de aventuras sem intenção de denúncia."
+    },
+    "gabarito": "B",
+    "comentario": "O 'triste fim' resulta do choque entre o Brasil que Policarpo ama (idealizado) e o Brasil das instituições — crítica pré-modernista ao ufanismo e à República."
+  },
+  {
+    "numero": 29, "area": "LC", "disciplina": "Literatura", "habilidade": "H16 – Clarice / introspecção",
+    "texto": "Em certa narrativa brasileira de meados do século XX, uma dona de casa, ao ver um cego mascando chiclete no ponto do bonde, sente que algo em sua vida organizada se desarranja: ri, chora, deixa cair os ovos da sacola e passa a tarde percebendo o mundo com uma intensidade que a assusta. À noite, retoma a rotina — mas o leitor sabe que ela já não é a mesma.",
+    "fonte": "Texto elaborado para o simulado (paráfrase de enredo).",
+    "comando": "O enredo descrito exemplifica um traço central da prosa intimista brasileira, que consiste em",
+    "alternativas": {
+      "A": "privilegiar a ação externa e o suspense policial.",
+      "B": "explorar a epifania, o instante banal que revela o eu à personagem.",
+      "C": "descrever com exatidão sociológica a vida nas cidades.",
+      "D": "narrar grandes acontecimentos históricos pela ótica dos heróis.",
+      "E": "evitar qualquer referência à vida interior das personagens."
+    },
+    "gabarito": "B",
+    "comentario": "A epifania (revelação a partir de um fato banal, como em 'Amor', de Clarice Lispector) é marca da prosa introspectiva da geração de 45."
+  },
+  {
+    "numero": 30, "area": "LC", "disciplina": "Literatura", "habilidade": "H17 – Romantismo / Castro Alves",
+    "texto": "Em 2026 completam-se 155 anos da morte de Castro Alves, chamado \"poeta dos escravos\". Em seus poemas condoreiros, a denúncia da escravidão vem em versos grandiloquentes, cheios de exclamações, apóstrofes a Deus e à natureza, e imagens de dimensão cósmica — o navio negreiro atravessando o oceano sob o olhar das estrelas.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Os recursos descritos no texto associam a poesia de Castro Alves à",
+    "alternativas": {
+      "A": "contenção formal e à objetividade do Parnasianismo.",
+      "B": "terceira geração romântica, de tom oratório e engajamento social.",
+      "C": "primeira geração romântica, voltada ao indianismo.",
+      "D": "sugestão musical e vaga do Simbolismo.",
+      "E": "ironia coloquial dos modernistas de 1922."
+    },
+    "gabarito": "B",
+    "comentario": "Condoreirismo = 3ª geração romântica: eloquência, hipérboles, engajamento abolicionista."
+  },
+  {
+    "numero": 31, "area": "LC", "disciplina": "Língua Portuguesa – gêneros / publicidade", "habilidade": "H24 – persuasão em campanha",
+    "texto": "**Cartaz de campanha de um órgão de saúde (descrição)**\n\nImagem: um adolescente deitado no escuro, o rosto iluminado apenas pela tela do celular; ao lado, uma janela com o sol nascendo.\nTexto principal: \"O dia começou. Você viu?\"\nTexto menor: \"Dormir bem é cuidar da sua saúde mental. Desligue uma hora antes.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A pergunta \"Você viu?\" articula-se à imagem para",
+    "alternativas": {
+      "A": "informar o horário exato do nascer do sol.",
+      "B": "provocar o leitor a reconhecer-se na cena e refletir sobre o próprio hábito.",
+      "C": "elogiar a qualidade da iluminação das telas modernas.",
+      "D": "anunciar um novo modelo de celular com brilho reduzido.",
+      "E": "descrever cientificamente os ciclos do sono."
+    },
+    "gabarito": "B",
+    "comentario": "A pergunta direta em 2ª pessoa e a cena identificável interpelam o leitor (função apelativa) para que se reconheça no adolescente e mude o hábito."
+  },
+  {
+    "numero": 32, "area": "LC", "disciplina": "Língua Portuguesa – norma-padrão", "habilidade": "H27 – norma-padrão / adequação",
+    "texto": "**E-mail enviado a uma empresa**\n\n\"Prezados, venho por meio deste solicitar a segunda via do boleto referente ao mês de outubro, haja visto que o documento original não chegou ao endereço cadastrado. Agradeço desde já a atenção dispensada.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Considerando o registro formal exigido pelo gênero, o trecho que requer correção de acordo com a norma-padrão é",
+    "alternativas": {
+      "A": "\"venho por meio deste solicitar\".",
+      "B": "\"referente ao mês de outubro\".",
+      "C": "\"haja visto que\".",
+      "D": "\"não chegou ao endereço cadastrado\".",
+      "E": "\"a atenção dispensada\"."
+    },
+    "gabarito": "C",
+    "comentario": "A locução conjuntiva é 'haja vista' (invariável quanto a 'vista'); 'haja visto' é inadequada à norma-padrão. As demais são formas convencionais do gênero."
+  },
+  {
+    "numero": 33, "area": "LC", "disciplina": "Língua Portuguesa – interpretação / charge", "habilidade": "H22 – charge / multimodalidade",
+    "texto": "**Charge (descrição)**\n\nDois quadros. No primeiro, intitulado \"1996\", uma criança de bicicleta grita para a mãe na janela: \"Volto antes de escurecer!\". No segundo, \"2026\", a mesma cena — mas a criança está no sofá, com um tablet, e a mãe, no quarto ao lado, olha o celular; um balão sai do aparelho dela: \"Seu filho está online há 6h12\".",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A crítica da charge constrói-se pela",
+    "alternativas": {
+      "A": "comparação entre dois modos de supervisão parental separados por trinta anos.",
+      "B": "defesa do tablet como ferramenta educativa superior à bicicleta.",
+      "C": "exaltação do controle tecnológico como garantia de segurança.",
+      "D": "denúncia do perigo das ruas para as crianças dos anos 1990.",
+      "E": "valorização do silêncio como forma de comunicação familiar."
+    },
+    "gabarito": "A",
+    "comentario": "O paralelismo entre os quadros contrasta a autonomia (e o risco) de 1996 com a vigilância mediada por aparelho em 2026 — em que mãe e filho não se olham."
+  },
+  {
+    "numero": 34, "area": "LC", "disciplina": "Língua Portuguesa – semântica / figuras", "habilidade": "H19 – recursos expressivos",
+    "texto": "Trecho de reportagem sobre uma cidade atingida por enchente em 2024:\n\n\"A água subiu devagar, como quem não quer incomodar, e em duas horas tinha levado o mercado, a escola e trinta anos de fotografias.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "No período, a sequência \"o mercado, a escola e trinta anos de fotografias\" produz efeito expressivo ao",
+    "alternativas": {
+      "A": "enumerar apenas bens materiais de valor econômico equivalente.",
+      "B": "colocar no mesmo plano perdas materiais e uma perda afetiva irreparável.",
+      "C": "indicar a ordem cronológica em que as construções foram inundadas.",
+      "D": "minimizar os danos ao citar objetos sem importância.",
+      "E": "personificar a escola e o mercado como vítimas da água."
+    },
+    "gabarito": "B",
+    "comentario": "A enumeração termina com um elemento de outra natureza (fotografias = memória), criando a quebra de expectativa que intensifica a dimensão humana da perda. A personificação está em 'como quem não quer incomodar', não nessa enumeração."
+  },
+  {
+    "numero": 35, "area": "LC", "disciplina": "Língua Portuguesa – variação", "habilidade": "H25 – variação regional/histórica",
+    "texto": "Um dicionário de termos regionais registra que, em partes de Minas Gerais, \"trem\" designa qualquer objeto (\"me dá esse trem aí\"), enquanto em outras regiões a palavra se restringe ao veículo ferroviário. Um linguista comenta que a extensão de sentido não é \"erro\", mas resultado de processos históricos e sociais próprios de cada comunidade.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O comentário do linguista apoia-se no princípio de que",
+    "alternativas": {
+      "A": "só o significado dicionarizado nacionalmente é legítimo.",
+      "B": "a variação de sentido entre regiões é fenômeno natural da língua.",
+      "C": "as variedades regionais devem ser corrigidas pela escola.",
+      "D": "o uso mineiro da palavra decorre de desconhecimento do português.",
+      "E": "o significado das palavras é fixo desde a origem latina."
+    },
+    "gabarito": "B",
+    "comentario": "Variação diatópica (regional) e mudança semântica são fenômenos naturais; não há 'erro', mas história social da língua."
+  },
+  {
+    "numero": 36, "area": "LC", "disciplina": "Língua Portuguesa – argumentação / textos em diálogo", "habilidade": "H21 – comparação de pontos de vista",
+    "texto": "**Texto I**\n\n\"Verificar a idade dos usuários é inviável: ou se invade a privacidade de todos, exigindo documentos, ou se cria uma regra que ninguém cumpre.\" (executivo de plataforma digital, 2025)\n\n**Texto II**\n\n\"Bancos verificam identidade há décadas sem que ninguém considere isso uma invasão. A tecnologia existe; o que falta é interesse em perder usuários menores de idade, que são lucrativos.\" (pesquisadora em direito digital, 2026)",
+    "fonte": "Textos elaborados para o simulado.",
+    "comando": "A autora do Texto II refuta o Texto I ao",
+    "alternativas": {
+      "A": "concordar que a verificação de idade fere a privacidade.",
+      "B": "deslocar o problema do campo técnico para o campo dos interesses econômicos.",
+      "C": "propor que os bancos passem a administrar as redes sociais.",
+      "D": "negar que existam menores de idade nas plataformas.",
+      "E": "defender a criação de regras que ninguém cumpra."
+    },
+    "gabarito": "B",
+    "comentario": "Texto I alega impossibilidade técnica; Texto II responde que a técnica existe (exemplo dos bancos) e que a questão real é econômica — mudança do eixo do argumento."
+  },
+  {
+    "numero": 37, "area": "LC", "disciplina": "Língua Portuguesa – interpretação (conto)", "habilidade": "H23 – narrativa / foco narrativo",
+    "texto": "**Trecho de conto** (elaborado para o simulado)\n\nA avó dizia que o telefone fixo tocava diferente quando era notícia ruim. Eu ria. Hoje, quando o celular vibra à noite, sei exatamente do que ela falava — e sei também que ela não falava do telefone.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A frase final do trecho revela que o narrador",
+    "alternativas": {
+      "A": "descobriu que a avó se referia ao medo que antecede as más notícias.",
+      "B": "comprovou que telefones antigos emitiam sons diferentes.",
+      "C": "continua considerando a crença da avó uma superstição ridícula.",
+      "D": "prefere o telefone fixo ao celular por razões técnicas.",
+      "E": "deixou de atender ligações noturnas após a morte da avó."
+    },
+    "gabarito": "A",
+    "comentario": "'Ela não falava do telefone': o narrador compreende tardiamente que a avó descrevia uma percepção emocional (pressentimento), que ele agora reconhece em si."
+  },
+  {
+    "numero": 38, "area": "LC", "disciplina": "Língua Portuguesa – gêneros / notícia", "habilidade": "H22 – gênero jornalístico",
+    "texto": "**Manchete:** Cidade mineira registra 40 °C e bate recorde histórico de temperatura\n\n**Linha fina:** Medição foi feita por estação do Inmet no centro; bairros periféricos sem arborização podem ter superado a marca, segundo pesquisadores.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A linha fina cumpre, em relação à manchete, a função de",
+    "alternativas": {
+      "A": "contradizer a informação principal com novos dados.",
+      "B": "complementar a manchete, delimitando a fonte e ampliando o alcance da notícia.",
+      "C": "apresentar a opinião pessoal do jornalista sobre o calor.",
+      "D": "resumir toda a reportagem em uma única frase impessoal.",
+      "E": "substituir a manchete por uma versão mais técnica."
+    },
+    "gabarito": "B",
+    "comentario": "A linha fina (subtítulo) especifica a fonte (Inmet, centro) e acrescenta a informação de que a periferia pode ter sofrido mais — complementa, não contradiz."
+  },
+  {
+    "numero": 39, "area": "LC", "disciplina": "Artes", "habilidade": "H13 – arte contemporânea / grafite",
+    "texto": "Em 2025, um muro de uma estação de metrô recebeu um painel de grafite com retratos de trabalhadoras da limpeza da própria estação, pintados em escala monumental. A artista declarou que escolheu o local porque \"quem passa correndo todo dia nunca viu o rosto de quem deixa o chão brilhando\".",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A intervenção artística descrita atua, sobretudo, no sentido de",
+    "alternativas": {
+      "A": "decorar o espaço com imagens abstratas e neutras.",
+      "B": "dar visibilidade a sujeitos sociais normalmente invisibilizados.",
+      "C": "promover a venda das obras em galerias privadas.",
+      "D": "criticar o uso do metrô como meio de transporte.",
+      "E": "reproduzir fielmente a estética dos museus tradicionais."
+    },
+    "gabarito": "B",
+    "comentario": "Escala monumental + rosto de quem 'nunca foi visto': a arte urbana como instrumento de visibilidade social."
+  },
+  {
+    "numero": 40, "area": "LC", "disciplina": "Artes", "habilidade": "H12 – música / cultura popular",
+    "texto": "Em 2026 celebram-se 100 anos de nascimento de Milton Santos e 140 de Manuel Bandeira; no campo da música, muitos festivais homenageiam o tropicalismo, movimento que, no fim dos anos 1960, misturou guitarra elétrica e berimbau, bossa nova e música de feira, poesia concreta e brega — provocando vaias de parte do público que via nisso uma \"traição\" à música brasileira.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "As vaias mencionadas no texto evidenciam que o tropicalismo",
+    "alternativas": {
+      "A": "foi recebido unanimemente como renovação da MPB.",
+      "B": "tensionou a noção de pureza cultural defendida por setores da época.",
+      "C": "rejeitou qualquer elemento da cultura popular brasileira.",
+      "D": "limitou-se a reproduzir o rock norte-americano.",
+      "E": "evitou o diálogo com a poesia de vanguarda."
+    },
+    "gabarito": "B",
+    "comentario": "A mistura 'impura' (guitarra + berimbau, brega + vanguarda) contrariava a ideia de autenticidade nacional — daí as vaias; raciocínio antropofágico atualizado."
+  },
+  {
+    "numero": 41, "area": "LC", "disciplina": "Educação Física", "habilidade": "H11 – práticas corporais e saúde",
+    "texto": "Um estudo de 2025 comparou dois grupos de adultos sedentários: um passou a caminhar 30 minutos por dia; o outro recebeu um aplicativo que contava passos e emitia alertas, sem orientação adicional. Após seis meses, o primeiro grupo manteve a prática; no segundo, 70% haviam desinstalado o aplicativo, relatando \"cansaço das cobranças\".",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O resultado do estudo sugere que a adesão à atividade física depende",
+    "alternativas": {
+      "A": "exclusivamente da precisão da tecnologia de monitoramento.",
+      "B": "mais da construção de um hábito significativo do que da cobrança externa.",
+      "C": "da quantidade de notificações recebidas por dia.",
+      "D": "da substituição da caminhada por exercícios de alta intensidade.",
+      "E": "do abandono completo de qualquer recurso tecnológico."
+    },
+    "gabarito": "B",
+    "comentario": "A prática orientada e incorporada à rotina durou; a cobrança automatizada gerou rejeição. O texto não condena a tecnologia em si (E extrapola)."
+  },
+  {
+    "numero": 42, "area": "LC", "disciplina": "Tecnologias da informação", "habilidade": "H2 – IA e autoria",
+    "texto": "Uma universidade brasileira publicou, em 2026, orientação sobre uso de inteligência artificial generativa em trabalhos acadêmicos: o uso é permitido para revisão, organização de ideias e tradução, desde que declarado; é vedado submeter como próprio texto integralmente produzido pela ferramenta. A nota justifica que \"o objetivo da avaliação é verificar o raciocínio do estudante, não a competência da máquina\".",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O critério adotado pela universidade para distinguir uso permitido e vedado da IA é",
+    "alternativas": {
+      "A": "a quantidade de palavras geradas pela ferramenta.",
+      "B": "a marca ou o modelo de inteligência artificial utilizado.",
+      "C": "a preservação do raciocínio do estudante como objeto da avaliação.",
+      "D": "a proibição de qualquer tecnologia no ambiente acadêmico.",
+      "E": "a exigência de que os trabalhos sejam manuscritos."
+    },
+    "gabarito": "C",
+    "comentario": "A justificativa é explícita: o que se avalia é o raciocínio do aluno; auxílio declarado não o compromete, substituição integral sim."
+  },
+  {
+    "numero": 43, "area": "LC", "disciplina": "Língua Portuguesa – interpretação / poema contemporâneo", "habilidade": "H17 – poesia contemporânea",
+    "texto": "**Cadastro** (poema elaborado para o simulado)\n\nnome completo\nnome da mãe\ndata de nascimento\ncor ou raça (opcional)\n\nentre parênteses\ntrezentos anos\ncabem\nnuma palavra\nopcional",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O efeito crítico do poema decorre da",
+    "alternativas": {
+      "A": "exaltação da objetividade dos formulários públicos.",
+      "B": "tensão entre a banalidade burocrática do campo e o peso histórico que ele carrega.",
+      "C": "descrição técnica das etapas de um cadastro digital.",
+      "D": "ausência de qualquer referência à história do Brasil.",
+      "E": "defesa de que a cor não deve constar em formulários."
+    },
+    "gabarito": "B",
+    "comentario": "A forma de formulário (campos, 'opcional') contrasta com os 'trezentos anos' (escravidão) condensados em uma palavra tratada como detalhe facultativo."
+  },
+  {
+    "numero": 44, "area": "LC", "disciplina": "Língua Portuguesa – oralidade / entrevista", "habilidade": "H26 – marcas de oralidade",
+    "texto": "**Trecho de entrevista com uma benzedeira de 84 anos** (transcrição)\n\n\"Aí, né, a menina chegou aqui com aquela dor... eu olhei pra ela assim, ó, e falei: cê não tem nada, não, minha fia, cê tá é com saudade. E num é que era?\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "As marcas linguísticas do trecho, como \"né\", \"ó\", \"cê\" e \"num é que era?\", caracterizam",
+    "alternativas": {
+      "A": "erros graves que comprometem a compreensão do relato.",
+      "B": "o registro oral espontâneo, com interação direta com o interlocutor.",
+      "C": "a tentativa da entrevistada de imitar a norma-padrão escrita.",
+      "D": "um jargão técnico próprio das práticas de cura.",
+      "E": "a leitura em voz alta de um texto previamente escrito."
+    },
+    "gabarito": "B",
+    "comentario": "Marcadores conversacionais, formas reduzidas e pergunta retórica dirigida ao ouvinte são próprios da fala espontânea — não erros nem jargão."
+  },
+  {
+    "numero": 45, "area": "LC", "disciplina": "Língua Portuguesa – intertextualidade", "habilidade": "H19 – intertexto / paródia",
+    "texto": "**Post de uma página de humor sobre o mercado de trabalho**\n\n\"Vou-me embora pra Pasárgada\nLá tenho vaga CLT\nLá o chefe é meu amigo\nE o ponto, ninguém vê.\"",
+    "fonte": "Texto elaborado para o simulado, com referência ao poema \"Vou-me embora pra Pasárgada\", de Manuel Bandeira (1930).",
+    "comando": "Ao retomar os versos de Manuel Bandeira, o post",
+    "alternativas": {
+      "A": "reproduz fielmente o poema sem alterar seu sentido.",
+      "B": "parodia a utopia do poeta, transformando-a em fantasia sobre condições de trabalho.",
+      "C": "critica o poeta por idealizar um lugar inexistente.",
+      "D": "informa objetivamente sobre a legislação trabalhista.",
+      "E": "elimina qualquer traço do texto original."
+    },
+    "gabarito": "B",
+    "comentario": "Paródia: mantém a estrutura e a ideia de lugar ideal ('Pasárgada'), mas desloca o desejo para o cotidiano precário do trabalho — humor crítico por intertextualidade."
+  }
+]

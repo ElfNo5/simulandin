@@ -1,0 +1,332 @@
+[
+  {
+    "numero": 69, "area": "CH", "disciplina": "Geografia", "habilidade": "H26 – fusos horários",
+    "texto": "Um torcedor em Belo Horizonte (UTC−3) quer assistir ao vivo à abertura de um evento esportivo marcado para as 20h locais em Los Angeles (UTC−7), em um período sem horário de verão em ambos os locais.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O torcedor deverá ligar a televisão às",
+    "alternativas": {
+      "A": "16h do mesmo dia.",
+      "B": "20h do mesmo dia.",
+      "C": "0h do dia seguinte.",
+      "D": "4h do dia seguinte.",
+      "E": "17h do dia seguinte."
+    },
+    "gabarito": "C",
+    "comentario": "Diferença de 4 fusos; Belo Horizonte está a leste (adiantada). 20h + 4h = 24h = meia-noite do dia seguinte."
+  },
+  {
+    "numero": 70, "area": "CH", "disciplina": "Geografia", "habilidade": "H30 – geopolítica / terras raras",
+    "texto": "O Brasil possui a segunda maior reserva mundial de terras raras, minerais essenciais a turbinas eólicas, motores elétricos e equipamentos militares, mas responde por menos de 1% da produção global, dominada pela China. Em 2025, o governo lançou política para atrair investimentos na cadeia de beneficiamento, com a condição de que parte do processamento ocorra em território nacional.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A condição estabelecida pela política brasileira visa",
+    "alternativas": {
+      "A": "impedir qualquer exportação de minerais estratégicos.",
+      "B": "evitar que o país se limite ao papel de exportador de matéria-prima bruta.",
+      "C": "reduzir a demanda mundial por energias renováveis.",
+      "D": "transferir à China o controle das reservas brasileiras.",
+      "E": "proibir o uso de terras raras em equipamentos militares."
+    },
+    "gabarito": "B",
+    "comentario": "Exigir beneficiamento local = agregar valor e escapar da posição periférica de fornecedor de commodity bruta."
+  },
+  {
+    "numero": 71, "area": "CH", "disciplina": "Geografia", "habilidade": "H22 – migrações",
+    "texto": "Após enchentes que destruíram bairros inteiros em 2024, uma cidade do Sul do Brasil perdeu cerca de 8% de seus moradores em um ano. Parte deles migrou para municípios vizinhos em terrenos mais altos; outra parte retornou às casas reconstruídas na mesma área, por falta de alternativa econômica.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O deslocamento populacional descrito exemplifica",
+    "alternativas": {
+      "A": "migração pendular motivada pelo trabalho diário.",
+      "B": "êxodo rural típico da modernização agrícola.",
+      "C": "migração forçada por fatores ambientais, condicionada pela renda.",
+      "D": "transumância sazonal ligada ao clima tropical.",
+      "E": "migração internacional de refugiados políticos."
+    },
+    "gabarito": "C",
+    "comentario": "Deslocados ambientais/climáticos; quem pode sai, quem não pode volta ao risco — a renda condiciona a mobilidade."
+  },
+  {
+    "numero": 72, "area": "CH", "disciplina": "Geografia", "habilidade": "H28 – hidrografia / Milton Santos",
+    "texto": "Milton Santos, cujo centenário se celebra em 2026, afirmava que o espaço geográfico é um conjunto indissociável de sistemas de objetos e sistemas de ações: as coisas (estradas, barragens, cidades) e o uso que a sociedade faz delas ao longo do tempo. Assim, um mesmo rio pode ser fonte de vida para ribeirinhos e, décadas depois, reservatório de uma hidrelétrica.",
+    "fonte": "Texto elaborado para o simulado (paráfrase de *A Natureza do Espaço*, 1996).",
+    "comando": "Conforme a concepção apresentada, o espaço geográfico é",
+    "alternativas": {
+      "A": "um cenário natural fixo, independente da ação humana.",
+      "B": "o resultado dinâmico da interação entre materialidade e práticas sociais.",
+      "C": "um conjunto de objetos técnicos sem relação com a sociedade.",
+      "D": "determinado exclusivamente pelas condições do relevo e do clima.",
+      "E": "idêntico em todos os momentos históricos."
+    },
+    "gabarito": "B",
+    "comentario": "Objetos + ações, historicamente articulados: o espaço muda conforme muda o uso social — nem natureza fixa nem técnica isolada."
+  },
+  {
+    "numero": 73, "area": "CH", "disciplina": "Geografia", "habilidade": "H23 – urbanização / segregação",
+    "texto": "Mapa temático de uma metrópole brasileira (descrição): as áreas com maior cobertura vegetal e menor temperatura de superfície coincidem com os bairros de maior renda média; as áreas mais quentes, com menos de 5% de arborização, concentram-se nas periferias de ocupação recente e nas favelas.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A sobreposição das informações do mapa evidencia um processo de",
+    "alternativas": {
+      "A": "distribuição equitativa dos serviços ambientais urbanos.",
+      "B": "segregação socioespacial expressa também no acesso ao conforto térmico.",
+      "C": "desaceleração do crescimento das áreas periféricas.",
+      "D": "homogeneização das temperaturas no espaço urbano.",
+      "E": "migração das classes altas para as áreas mais quentes."
+    },
+    "gabarito": "B",
+    "comentario": "Ilhas de calor coincidem com pobreza e falta de verde: a desigualdade também é ambiental/climática dentro da cidade."
+  },
+  {
+    "numero": 74, "area": "CH", "disciplina": "Geografia", "habilidade": "H27 – agricultura / agrotóxicos",
+    "texto": "Apicultores de um município do interior paulista registraram, em 2025, a morte de milhões de abelhas em poucos dias, coincidindo com a pulverização aérea de inseticidas em lavouras vizinhas. Além da perda de mel, pesquisadores alertam para a queda na polinização de culturas como café, laranja e maracujá.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O episódio evidencia que o uso intensivo de agrotóxicos",
+    "alternativas": {
+      "A": "afeta apenas a atividade específica dos apicultores.",
+      "B": "compromete serviços ecossistêmicos dos quais a própria agricultura depende.",
+      "C": "aumenta a produtividade de todas as culturas agrícolas.",
+      "D": "é inofensivo quando aplicado por via aérea.",
+      "E": "não tem relação com a produção de alimentos."
+    },
+    "gabarito": "B",
+    "comentario": "Polinização é serviço ecossistêmico: matar abelhas prejudica as próprias lavouras — contradição interna do modelo agroquímico."
+  },
+  {
+    "numero": 75, "area": "CH", "disciplina": "Geografia", "habilidade": "H29 – resíduos / consumo",
+    "texto": "Estudo de 2025 estimou que o Brasil gera mais de 2 milhões de toneladas de lixo eletrônico por ano, mas recicla formalmente menos de 3%. Celulares descartados contêm ouro, cobre e lítio, além de metais tóxicos que contaminam o solo e a água quando dispostos em lixões.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Uma política pública coerente com o problema apresentado é",
+    "alternativas": {
+      "A": "ampliar a vida útil dos aparelhos e a logística reversa, responsabilizando fabricantes pelo recolhimento.",
+      "B": "incentivar a troca anual de celulares para aquecer a economia.",
+      "C": "exportar o lixo eletrônico para países de menor renda.",
+      "D": "proibir a fabricação de aparelhos eletrônicos no país.",
+      "E": "destinar todo o lixo eletrônico a aterros comuns."
+    },
+    "gabarito": "A",
+    "comentario": "Logística reversa (PNRS, Lei 12.305/2010) e durabilidade atacam o problema na origem e no destino; as demais o agravam ou são inviáveis."
+  },
+  {
+    "numero": 76, "area": "CH", "disciplina": "Filosofia", "habilidade": "H16 – Platão / conhecimento",
+    "texto": "Na alegoria da caverna, Platão descreve prisioneiros que, desde a infância, veem apenas sombras projetadas em uma parede e as tomam pela realidade. Um deles, libertado, sai para a luz, compreende a origem das sombras e, ao retornar para avisar os outros, é ridicularizado e ameaçado.",
+    "fonte": "Texto elaborado para o simulado (paráfrase de *A República*, livro VII).",
+    "comando": "Leitores contemporâneos têm relacionado a alegoria aos ambientes digitais. Essa aproximação é pertinente porque, em ambos os casos,",
+    "alternativas": {
+      "A": "o conhecimento verdadeiro é obtido pela simples exposição a mais imagens.",
+      "B": "a percepção da realidade pode ser mediada e limitada por aquilo que é mostrado.",
+      "C": "os prisioneiros escolheram livremente permanecer na caverna.",
+      "D": "a saída da caverna é facilitada pelo consenso do grupo.",
+      "E": "as sombras são idênticas às coisas reais."
+    },
+    "gabarito": "B",
+    "comentario": "Sombras ≈ feeds e recortes: a realidade chega filtrada; quem questiona o filtro enfrenta resistência. A e E contradizem a alegoria."
+  },
+  {
+    "numero": 77, "area": "CH", "disciplina": "Filosofia", "habilidade": "H17 – contratualismo",
+    "texto": "**Texto I**\n\nNo estado de natureza, sem um poder comum que mantenha todos em respeito, a vida do homem é solitária, pobre, embrutecida e curta; por isso os indivíduos transferem seus direitos a um soberano absoluto.\n\n**Texto II**\n\nOs homens unem-se em sociedade para preservar a vida, a liberdade e a propriedade; se o governo viola esses direitos, o povo pode legitimamente resistir e substituí-lo.",
+    "fonte": "Paráfrases elaboradas para o simulado de ideias de Hobbes (*Leviatã*, 1651) e Locke (*Segundo Tratado*, 1689).",
+    "comando": "A diferença central entre os dois textos está",
+    "alternativas": {
+      "A": "na recusa do Texto I à ideia de contrato social.",
+      "B": "nos limites do poder político: absoluto no Texto I, condicionado aos direitos no Texto II.",
+      "C": "na defesa, pelo Texto II, da guerra de todos contra todos.",
+      "D": "na negação, pelo Texto I, da existência de um estado de natureza.",
+      "E": "na proposta de democracia direta em ambos os textos."
+    },
+    "gabarito": "B",
+    "comentario": "Hobbes: soberano absoluto para garantir a paz. Locke: governo limitado pelos direitos naturais, com direito de resistência — base do liberalismo."
+  },
+  {
+    "numero": 78, "area": "CH", "disciplina": "Filosofia", "habilidade": "H18 – ética kantiana",
+    "texto": "Para Kant, uma ação só tem valor moral quando é feita por dever, e não por inclinação ou interesse. Um comerciante que não engana os clientes apenas porque isso é bom para os negócios age conforme o dever, mas não por dever — e sua ação, embora correta, não é moralmente meritória.",
+    "fonte": "Texto elaborado para o simulado (paráfrase de *Fundamentação da Metafísica dos Costumes*, 1785).",
+    "comando": "De acordo com a concepção apresentada, o critério para avaliar a moralidade de uma ação é",
+    "alternativas": {
+      "A": "o benefício que ela produz para o maior número de pessoas.",
+      "B": "a intenção de cumprir o dever, independentemente das consequências.",
+      "C": "o prazer que ela proporciona a quem a pratica.",
+      "D": "a conformidade com os costumes da comunidade.",
+      "E": "o sucesso econômico que ela garante ao agente."
+    },
+    "gabarito": "B",
+    "comentario": "Ética deontológica: vale a intenção/dever (boa vontade), não o resultado — oposta ao utilitarismo (A) e ao hedonismo (C)."
+  },
+  {
+    "numero": 79, "area": "CH", "disciplina": "Filosofia", "habilidade": "H19 – Aristóteles / política",
+    "texto": "Aristóteles definiu o ser humano como animal político: só na pólis, pela palavra e pela deliberação comum sobre o justo e o injusto, o homem realiza plenamente sua natureza. Quem vive fora da cidade, dizia ele, é um deus ou uma besta.",
+    "fonte": "Texto elaborado para o simulado (paráfrase de *Política*, livro I).",
+    "comando": "A concepção aristotélica implica que a vida política é",
+    "alternativas": {
+      "A": "um mal necessário que limita a liberdade natural.",
+      "B": "uma convenção artificial criada por contrato entre indivíduos.",
+      "C": "constitutiva da própria humanidade, e não um acréscimo a ela.",
+      "D": "reservada a uma elite de sábios afastada da cidade.",
+      "E": "incompatível com o uso da linguagem."
+    },
+    "gabarito": "C",
+    "comentario": "Para Aristóteles a pólis é natural (não contratual, como para os modernos): fora dela não há vida propriamente humana."
+  },
+  {
+    "numero": 80, "area": "CH", "disciplina": "Filosofia", "habilidade": "H20 – Foucault / poder",
+    "texto": "Michel Foucault, cujo centenário de nascimento é celebrado em 2026, analisou como instituições modernas — prisões, escolas, hospitais, fábricas — produzem indivíduos dóceis por meio de vigilância contínua, horários, exames e registros. O poder disciplinar, segundo ele, não reprime apenas: fabrica comportamentos e saberes sobre cada pessoa.",
+    "fonte": "Texto elaborado para o simulado (paráfrase de *Vigiar e Punir*, 1975).",
+    "comando": "Aplicada às plataformas digitais que registram cada clique e ajustam o conteúdo exibido, a análise foucaultiana sugere que o poder nelas exercido",
+    "alternativas": {
+      "A": "é puramente negativo, limitando-se a censurar conteúdos.",
+      "B": "opera de forma produtiva, moldando hábitos a partir da vigilância dos dados.",
+      "C": "inexiste, pois os usuários escolhem livremente o que ver.",
+      "D": "concentra-se apenas no Estado, e não nas empresas.",
+      "E": "depende de punições físicas para ser eficaz."
+    },
+    "gabarito": "B",
+    "comentario": "Poder que vigia, registra e 'fabrica' condutas — não só proíbe: é o modelo disciplinar/produtivo transposto ao ambiente digital."
+  },
+  {
+    "numero": 81, "area": "CH", "disciplina": "Filosofia", "habilidade": "H16 – pré-socráticos",
+    "texto": "Heráclito afirmava que não se entra duas vezes no mesmo rio: as águas que correm são sempre outras. Parmênides, ao contrário, sustentava que o ser é uno, imutável e eterno, e que a mudança percebida pelos sentidos é ilusão.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A oposição entre os dois filósofos diz respeito, fundamentalmente,",
+    "alternativas": {
+      "A": "à organização política da cidade grega.",
+      "B": "à natureza da realidade: devir permanente ou permanência imutável.",
+      "C": "aos deveres morais do cidadão.",
+      "D": "à origem mitológica dos deuses olímpicos.",
+      "E": "à superioridade da escrita sobre a oralidade."
+    },
+    "gabarito": "B",
+    "comentario": "Problema ontológico dos pré-socráticos: mobilismo (Heráclito) × imobilismo (Parmênides); questão sobre o que é o real, não sobre ética ou política."
+  },
+  {
+    "numero": 82, "area": "CH", "disciplina": "Filosofia", "habilidade": "H21 – utilitarismo / ética aplicada",
+    "texto": "Ao discutir a regulação de algoritmos, uma comissão parlamentar ouviu duas posições. A primeira defendia que uma tecnologia deve ser avaliada pelo saldo de bem-estar que produz na sociedade, somando benefícios e descontando danos. A segunda sustentava que certas práticas — como manipular emoções de crianças para prolongar o uso — são inaceitáveis em si, ainda que gerem ganhos econômicos.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "As posições descritas correspondem, respectivamente, às perspectivas éticas",
+    "alternativas": {
+      "A": "utilitarista e deontológica.",
+      "B": "estoica e epicurista.",
+      "C": "relativista e cética.",
+      "D": "deontológica e utilitarista.",
+      "E": "niilista e existencialista."
+    },
+    "gabarito": "A",
+    "comentario": "Saldo de bem-estar = utilitarismo (Bentham/Mill); limites absolutos independentes do resultado = deontologia (Kant)."
+  },
+  {
+    "numero": 83, "area": "CH", "disciplina": "Sociologia", "habilidade": "H22 – Durkheim / fato social",
+    "texto": "Em uma escola, o uso de determinado aplicativo tornou-se tão generalizado que o aluno que não o possui é excluído dos grupos de estudo e das combinações de trabalho. Nenhuma regra formal obriga ao uso; ainda assim, poucos ousam ficar fora.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Na perspectiva de Durkheim, a situação descrita exemplifica um fato social porque o uso do aplicativo",
+    "alternativas": {
+      "A": "resulta da escolha isolada e consciente de cada aluno.",
+      "B": "é exterior aos indivíduos e exerce coerção sobre eles.",
+      "C": "foi imposto por uma lei aprovada pelo Estado.",
+      "D": "depende das características psicológicas de cada estudante.",
+      "E": "não produz qualquer consequência para quem o recusa."
+    },
+    "gabarito": "B",
+    "comentario": "Exterioridade + coercitividade (sanção difusa: exclusão) + generalidade = fato social, mesmo sem norma escrita."
+  },
+  {
+    "numero": 84, "area": "CH", "disciplina": "Sociologia", "habilidade": "H23 – Marx / trabalho por aplicativo",
+    "texto": "Entregadores de aplicativo são classificados pelas empresas como \"parceiros autônomos\": fornecem a própria bicicleta ou moto, pagam combustível e manutenção e não têm férias nem seguro. A plataforma, porém, define o preço da corrida, distribui as tarefas por algoritmo e pode bloquear o trabalhador sem justificativa.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A relação de trabalho descrita pode ser analisada, a partir de categorias marxistas, como uma forma de",
+    "alternativas": {
+      "A": "autonomia plena do trabalhador sobre o processo produtivo.",
+      "B": "subordinação ao capital, em que o controle persiste apesar da aparência de independência.",
+      "C": "propriedade coletiva dos meios de produção pelos entregadores.",
+      "D": "extinção da exploração graças à mediação tecnológica.",
+      "E": "retorno ao trabalho artesanal das corporações medievais."
+    },
+    "gabarito": "B",
+    "comentario": "Trabalhador assume custos e riscos (meios de produção próprios), mas não controla preço, ritmo nem permanência — subordinação algorítmica ('uberização')."
+  },
+  {
+    "numero": 85, "area": "CH", "disciplina": "Sociologia", "habilidade": "H24 – Weber / dominação",
+    "texto": "Um prefeito recém-eleito é obedecido porque venceu uma eleição regida por normas conhecidas; um líder religioso é seguido por seus fiéis em razão de qualidades pessoais consideradas extraordinárias; em uma comunidade rural, o patriarca mais velho decide as disputas porque \"sempre foi assim\".",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Segundo a tipologia de Max Weber, os três casos correspondem, respectivamente, às dominações",
+    "alternativas": {
+      "A": "tradicional, carismática e racional-legal.",
+      "B": "racional-legal, carismática e tradicional.",
+      "C": "carismática, racional-legal e tradicional.",
+      "D": "racional-legal, tradicional e carismática.",
+      "E": "tradicional, racional-legal e carismática."
+    },
+    "gabarito": "B",
+    "comentario": "Eleição por normas = racional-legal; qualidades extraordinárias = carismática; 'sempre foi assim' = tradicional."
+  },
+  {
+    "numero": 86, "area": "CH", "disciplina": "Sociologia", "habilidade": "H25 – cidadania / direitos",
+    "texto": "Em 2026 a Lei Maria da Penha completa 20 anos. No mesmo período, o Anuário Brasileiro de Segurança Pública registrou o maior número de feminicídios da série histórica, com mais de 1.500 casos em 2025, a maioria cometida por parceiros ou ex-parceiros, e dezenas de milhares de medidas protetivas descumpridas.",
+    "fonte": "Texto elaborado para o simulado com dados do FBSP (2026).",
+    "comando": "A coexistência dos dois dados apresentados evidencia que",
+    "alternativas": {
+      "A": "a lei eliminou a violência doméstica no país.",
+      "B": "a existência de direitos formais não garante, por si só, sua efetivação.",
+      "C": "a violência contra a mulher restringe-se ao espaço público.",
+      "D": "as medidas protetivas são sempre cumpridas pelos agressores.",
+      "E": "o aumento dos registros indica queda real da violência."
+    },
+    "gabarito": "B",
+    "comentario": "Direito no papel × realidade: lei avançada, mas violência persistente e proteção falha — distância entre cidadania formal e substantiva."
+  },
+  {
+    "numero": 87, "area": "CH", "disciplina": "Sociologia", "habilidade": "H26 – indústria cultural / redes",
+    "texto": "Pesquisa TIC Kids Online 2025 apontou que 84% dos jovens de 11 a 17 anos viram, em redes sociais, promoção de produtos por influenciadores sem sinalização de que se tratava de publicidade, e que mais da metade foi exposta a propaganda de jogos de aposta.",
+    "fonte": "Texto elaborado para o simulado com dados do Cetic.br (2025).",
+    "comando": "O fenômeno descrito aproxima-se do conceito de indústria cultural, formulado pela Escola de Frankfurt, na medida em que",
+    "alternativas": {
+      "A": "o entretenimento serve como veículo de estímulo ao consumo, diluindo a fronteira entre conteúdo e mercadoria.",
+      "B": "os jovens produzem autonomamente a cultura que consomem.",
+      "C": "a publicidade é sempre claramente identificada pelo público.",
+      "D": "as redes sociais eliminam a lógica mercantil da cultura.",
+      "E": "o consumo cultural é independente de interesses econômicos."
+    },
+    "gabarito": "A",
+    "comentario": "Adorno e Horkheimer: cultura como mercadoria que molda o consumo; publicidade disfarçada de conteúdo é a forma atual dessa fusão."
+  },
+  {
+    "numero": 88, "area": "CH", "disciplina": "Sociologia", "habilidade": "H27 – desigualdade / raça",
+    "texto": "Dados do IBGE de 2025 mostram que pessoas pretas e pardas representam 56% da população brasileira, mas ocupam cerca de 30% dos cargos de direção e recebem, em média, pouco mais da metade do rendimento de pessoas brancas. A taxa de homicídios entre jovens negros é quase o triplo da registrada entre jovens brancos.",
+    "fonte": "Texto elaborado para o simulado com dados do IBGE/Atlas da Violência.",
+    "comando": "O conjunto de dados caracteriza, sociologicamente, o",
+    "alternativas": {
+      "A": "racismo estrutural, que opera nas instituições independentemente de intenções individuais.",
+      "B": "fim das desigualdades raciais após a abolição da escravidão.",
+      "C": "preconceito como fenômeno restrito a atitudes individuais isoladas.",
+      "D": "mito da democracia racial, confirmado pelas estatísticas.",
+      "E": "resultado exclusivo de diferenças de esforço individual."
+    },
+    "gabarito": "A",
+    "comentario": "Desigualdades sistemáticas em renda, poder e vida/morte revelam o racismo como estrutura social, não como soma de preconceitos individuais."
+  },
+  {
+    "numero": 89, "area": "CH", "disciplina": "Sociologia", "habilidade": "H28 – movimentos sociais / participação",
+    "texto": "Em 2025, um vídeo de um influenciador sobre a exposição de crianças nas redes alcançou dezenas de milhões de visualizações e, em semanas, o Congresso aprovou uma lei que tramitava havia anos sobre a proteção de menores no ambiente digital.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O episódio ilustra uma característica da ação política contemporânea, que consiste",
+    "alternativas": {
+      "A": "na substituição completa dos partidos pelas redes sociais.",
+      "B": "na capacidade de mobilizações digitais acelerarem agendas institucionais.",
+      "C": "na irrelevância da opinião pública para o processo legislativo.",
+      "D": "na proibição de que cidadãos comuns influenciem o Congresso.",
+      "E": "na lentidão inevitável de toda deliberação democrática."
+    },
+    "gabarito": "B",
+    "comentario": "Opinião pública mobilizada em rede pressiona e acelera o Legislativo — sem substituir as instituições (A extrapola)."
+  },
+  {
+    "numero": 90, "area": "CH", "disciplina": "Sociologia", "habilidade": "H29 – cultura / alteridade",
+    "texto": "Um antropólogo relata que, ao chegar a uma aldeia, estranhou que as crianças subissem em árvores altíssimas sem a supervisão dos adultos; os moradores, por sua vez, estranhavam que, na cidade, as crianças fossem mantidas em casa diante de telas. \"Cada grupo via no outro um descuido\", concluiu.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A conclusão do antropólogo expressa a noção de",
+    "alternativas": {
+      "A": "etnocentrismo, ao afirmar a superioridade do modelo urbano.",
+      "B": "relativismo cultural, ao reconhecer que cada cultura avalia a partir de seus próprios critérios.",
+      "C": "determinismo biológico, ao atribuir o comportamento à hereditariedade.",
+      "D": "evolucionismo social, ao situar a aldeia em um estágio inferior.",
+      "E": "aculturação, ao descrever a fusão das duas práticas."
+    },
+    "gabarito": "B",
+    "comentario": "Estranhamento mútuo e simetria de julgamentos: nenhum padrão é absoluto — relativismo cultural como postura metodológica da antropologia."
+  }
+]

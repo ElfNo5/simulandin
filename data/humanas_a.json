@@ -1,0 +1,347 @@
+[
+  {
+    "numero": 46, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H3 – Era Vargas",
+    "texto": "Entre 1930 e 1945, o Estado brasileiro criou o Ministério do Trabalho, a carteira profissional, a Justiça do Trabalho e, em 1943, a Consolidação das Leis do Trabalho. Ao mesmo tempo, os sindicatos passaram a depender de reconhecimento oficial e a recolher um imposto obrigatório, e greves foram proibidas durante o Estado Novo.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O conjunto de medidas descrito caracteriza a relação entre Estado e trabalhadores no período como",
+    "alternativas": {
+      "A": "liberal, com mínima intervenção estatal nas relações de trabalho.",
+      "B": "revolucionária, com transferência do poder às organizações operárias.",
+      "C": "corporativista, que concedia direitos em troca do controle das organizações.",
+      "D": "escravista, com restrição total à mobilidade dos trabalhadores.",
+      "E": "anarquista, com extinção das instituições sindicais."
+    },
+    "gabarito": "C",
+    "comentario": "Trabalhismo varguista: direitos sociais (CLT) acompanhados de tutela estatal sobre sindicatos (reconhecimento, imposto, proibição de greve) — corporativismo."
+  },
+  {
+    "numero": 47, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H6 – Brasil Colônia / escravidão",
+    "texto": "Relatos de viajantes do século XVIII descrevem, em Minas Gerais, escravizados que trabalhavam nas lavras por conta própria em determinados dias, entregando ao senhor uma quantia fixa de ouro e guardando o excedente. Com esse pecúlio, alguns compravam a própria liberdade — o que explica, em parte, a elevada proporção de pessoas negras e pardas livres na capitania no fim do século.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A prática descrita no texto evidencia que, na mineração colonial,",
+    "alternativas": {
+      "A": "a escravidão foi abolida antes das demais regiões do Brasil.",
+      "B": "existiam brechas no sistema escravista que permitiam estratégias de autonomia.",
+      "C": "os escravizados não tinham qualquer contato com a economia monetária.",
+      "D": "a Coroa portuguesa proibia a alforria por compra.",
+      "E": "o trabalho livre predominou desde o início da exploração do ouro."
+    },
+    "gabarito": "B",
+    "comentario": "Escravos 'de ganho' e pecúlio: a escravidão não era um bloco rígido; existiam espaços de negociação e resistência (alforria), sem que isso signifique abolição."
+  },
+  {
+    "numero": 48, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H5 – Ditadura militar / memória",
+    "texto": "Em 2025, uma escola pública paulista recebeu uma placa com o nome de um ex-aluno morto em 1973 sob custódia do Estado. A cerimônia contou com a presença de familiares, que afirmaram: \"Durante cinquenta anos, o nome dele só existia num laudo falso. Hoje existe numa escola.\"",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A fala dos familiares relaciona-se a um processo histórico recente de",
+    "alternativas": {
+      "A": "anistia aos agentes do Estado por crimes cometidos no período.",
+      "B": "construção de políticas de memória e reparação sobre a ditadura militar.",
+      "C": "revisão historiográfica que nega a ocorrência de violações no regime.",
+      "D": "censura prévia a publicações sobre os anos 1970.",
+      "E": "retorno das Forças Armadas ao controle das escolas públicas."
+    },
+    "gabarito": "B",
+    "comentario": "Retificar o registro ('laudo falso') e nomear espaços públicos são políticas de memória e verdade, ligadas às comissões da verdade e à reparação às vítimas."
+  },
+  {
+    "numero": 49, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H8 – Império / abolição",
+    "texto": "A Lei de 28 de setembro de 1871, conhecida como Lei do Ventre Livre, declarou livres os filhos de mulheres escravizadas nascidos a partir daquela data — mas estabeleceu que permaneceriam sob o poder dos senhores até os 8 anos, quando estes poderiam optar entre receber uma indenização do Estado ou utilizar os serviços do menor até os 21 anos.",
+    "fonte": "Texto elaborado para o simulado com base no texto da lei (domínio público).",
+    "comando": "O dispositivo descrito revela que a lei",
+    "alternativas": {
+      "A": "extinguiu imediatamente a escravidão no Império.",
+      "B": "conciliou o princípio da liberdade com a preservação dos interesses dos proprietários.",
+      "C": "garantiu educação pública obrigatória às crianças libertas.",
+      "D": "foi aprovada por pressão exclusiva dos movimentos abolicionistas populares.",
+      "E": "transferiu as crianças livres para a tutela da Igreja."
+    },
+    "gabarito": "B",
+    "comentario": "Abolição gradual: liberdade formal, mas trabalho até 21 anos ou indenização — resposta às pressões sem romper com os senhores."
+  },
+  {
+    "numero": 50, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H2 – Primeira República / Canudos",
+    "texto": "Em 1896-1897, o Exército da recém-proclamada República enviou quatro expedições contra o arraial de Canudos, no sertão da Bahia, comunidade liderada por Antônio Conselheiro que reunia milhares de sertanejos. Jornais da capital descreviam o movimento como \"monarquista\" e \"fanático\"; os sobreviventes, no entanto, eram em sua maioria pobres que buscavam terra, trabalho e proteção contra a seca e os coronéis.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A diferença entre a representação dos jornais e a realidade dos moradores de Canudos indica que",
+    "alternativas": {
+      "A": "o movimento tinha como objetivo central restaurar a monarquia.",
+      "B": "a imprensa reproduzia fielmente as demandas dos sertanejos.",
+      "C": "o discurso oficial construiu um inimigo político para justificar a repressão.",
+      "D": "os sertanejos eram contrários à distribuição de terras.",
+      "E": "a seca não exercia influência sobre a vida no sertão."
+    },
+    "gabarito": "C",
+    "comentario": "Rotular como 'monarquista/fanático' legitimava a guerra contra um movimento de caráter social (terra, trabalho, religiosidade), como mostrou Euclides da Cunha."
+  },
+  {
+    "numero": 51, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H4 – Independência / Primeiro Reinado",
+    "texto": "Em 2026, completam-se 250 anos da Declaração de Independência dos Estados Unidos (1776). No Brasil, meio século depois, a Independência (1822) manteve a monarquia, a escravidão e a unidade territorial, e a Constituição de 1824 foi outorgada pelo imperador após o fechamento da Assembleia Constituinte.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A comparação entre os dois processos permite afirmar que a independência brasileira caracterizou-se",
+    "alternativas": {
+      "A": "pela ruptura radical com a ordem social e política do período colonial.",
+      "B": "pela adoção imediata de um regime republicano e federativo.",
+      "C": "pela continuidade das estruturas sociais sob um arranjo político conservador.",
+      "D": "pela abolição da escravidão como condição da autonomia nacional.",
+      "E": "pela fragmentação do território em várias repúblicas independentes."
+    },
+    "gabarito": "C",
+    "comentario": "Independência 'pelo alto': monarquia, escravidão e unidade preservadas; Constituição outorgada — conservadorismo em contraste com a república norte-americana."
+  },
+  {
+    "numero": 52, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H7 – redemocratização / Constituição de 1988",
+    "texto": "A Constituição de 1988 foi apelidada de \"Constituição Cidadã\". Entre suas inovações estão o voto facultativo aos 16 anos, a definição do racismo como crime inafiançável, a proteção às terras indígenas e um sistema de saúde público e universal. Sua elaboração recebeu mais de 120 emendas populares, assinadas por milhões de cidadãos.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O apelido atribuído à Constituição justifica-se",
+    "alternativas": {
+      "A": "pela restrição do voto aos cidadãos alfabetizados.",
+      "B": "pela ampliação dos direitos e pela participação popular em sua elaboração.",
+      "C": "pela manutenção dos atos institucionais do regime anterior.",
+      "D": "pela outorga do texto pelo presidente da República.",
+      "E": "pela exclusão dos direitos sociais do texto constitucional."
+    },
+    "gabarito": "B",
+    "comentario": "Direitos ampliados (voto 16, SUS, terras indígenas, racismo como crime) e emendas populares: cidadania no conteúdo e no processo."
+  },
+  {
+    "numero": 53, "area": "CH", "disciplina": "História do Brasil", "habilidade": "H6 – povos indígenas / colonização",
+    "texto": "Documentos jesuíticos do século XVI registram que os missionários aprendiam a língua tupi para catequizar, compunham cantos cristãos em ritmos indígenas e reuniam povos distintos em aldeamentos sob disciplina europeia. Historiadores apontam que essa estratégia preservou algumas práticas culturais ao mesmo tempo que desorganizou as sociedades originais.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A ação dos jesuítas descrita no texto pode ser caracterizada como",
+    "alternativas": {
+      "A": "respeito integral à autonomia cultural dos povos indígenas.",
+      "B": "extermínio físico sistemático das populações nativas.",
+      "C": "adaptação de elementos culturais nativos a serviço da dominação colonial.",
+      "D": "recusa de qualquer contato com as línguas indígenas.",
+      "E": "defesa da independência política dos aldeamentos."
+    },
+    "gabarito": "C",
+    "comentario": "Usar a língua e os ritmos para catequizar é apropriação instrumental: preserva formas, mas subordina conteúdos e reorganiza a vida nativa."
+  },
+  {
+    "numero": 54, "area": "CH", "disciplina": "História Geral", "habilidade": "H9 – Guerra Fria",
+    "texto": "Em novembro de 1989, a queda do Muro de Berlim foi transmitida ao vivo para o mundo. Construído em 1961 para impedir a fuga de cidadãos da Alemanha Oriental, o muro havia se tornado o símbolo mais visível da divisão da Europa em dois blocos.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A construção e a queda do muro, descritas no texto, relacionam-se, respectivamente,",
+    "alternativas": {
+      "A": "à Primeira Guerra Mundial e à criação da Liga das Nações.",
+      "B": "à consolidação da bipolaridade e à crise do bloco socialista no Leste europeu.",
+      "C": "à unificação alemã de 1871 e à ascensão do nazismo.",
+      "D": "ao Plano Marshall e à fundação da União Europeia.",
+      "E": "à Revolução Russa e à Guerra Civil Espanhola."
+    },
+    "gabarito": "B",
+    "comentario": "1961: auge da Guerra Fria (divisão em blocos); 1989: colapso dos regimes do Leste, prelúdio do fim da URSS (1991)."
+  },
+  {
+    "numero": 55, "area": "CH", "disciplina": "História Geral", "habilidade": "H10 – Revolução Industrial / trabalho",
+    "texto": "Em 1886, trabalhadores de Chicago entraram em greve pela jornada de oito horas. A repressão à manifestação, com mortos e condenações à forca, deu origem ao 1º de Maio. Cento e quarenta anos depois, debates sobre o fim da escala 6x1 e sobre a jornada de entregadores de aplicativo reacendem, no Brasil, a discussão sobre o tempo de trabalho.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A relação estabelecida pelo texto entre 1886 e o presente evidencia que",
+    "alternativas": {
+      "A": "a jornada de trabalho deixou de ser objeto de disputa após a conquista das oito horas.",
+      "B": "o controle do tempo de trabalho permanece como eixo histórico dos conflitos entre capital e trabalho.",
+      "C": "os trabalhadores de aplicativo possuem jornada regulamentada desde o século XIX.",
+      "D": "a greve de Chicago foi vitoriosa sem qualquer repressão.",
+      "E": "a escala 6x1 foi criada em 1886 nos Estados Unidos."
+    },
+    "gabarito": "B",
+    "comentario": "Da jornada de oito horas à 6x1 e aos apps: a disputa pelo tempo é constante histórica das relações de trabalho."
+  },
+  {
+    "numero": 56, "area": "CH", "disciplina": "História Geral", "habilidade": "H11 – Antiguidade / Roma",
+    "texto": "Na Roma republicana, os plebeus conquistaram, ao longo de dois séculos de conflitos com os patrícios, o direito de eleger tribunos com poder de veto, o acesso a magistraturas e a publicação das leis por escrito (Lei das XII Tábuas, séc. V a.C.).",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A publicação das leis por escrito representou, para os plebeus,",
+    "alternativas": {
+      "A": "a perda de influência nas assembleias populares.",
+      "B": "a garantia de que o direito não ficaria restrito ao conhecimento dos patrícios.",
+      "C": "a extinção da escravidão nos domínios romanos.",
+      "D": "o fim das diferenças econômicas entre as ordens sociais.",
+      "E": "a transferência do poder legislativo ao imperador."
+    },
+    "gabarito": "B",
+    "comentario": "Leis escritas e públicas retiram dos patrícios o monopólio da interpretação do direito costumeiro — conquista de cidadania."
+  },
+  {
+    "numero": 57, "area": "CH", "disciplina": "História Geral", "habilidade": "H12 – Idade Média / Islã",
+    "texto": "Entre os séculos VIII e XIII, cidades como Bagdá, Córdoba e Cairo abrigaram bibliotecas e centros de tradução onde obras gregas de filosofia, medicina e astronomia foram vertidas para o árabe, comentadas e ampliadas. Parte desse acervo chegou à Europa cristã por meio da Península Ibérica, influenciando as universidades medievais.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O processo descrito no texto evidencia que o mundo islâmico medieval",
+    "alternativas": {
+      "A": "manteve-se isolado das tradições científicas da Antiguidade.",
+      "B": "atuou como mediador e produtor de conhecimento entre Antiguidade e Europa.",
+      "C": "destruiu sistematicamente os textos de origem grega.",
+      "D": "limitou-se a copiar obras sem qualquer contribuição própria.",
+      "E": "recebeu da Europa cristã as traduções das obras gregas."
+    },
+    "gabarito": "B",
+    "comentario": "Tradução + comentário + ampliação = produção de conhecimento; transmissão à Europa via Ibéria = mediação cultural."
+  },
+  {
+    "numero": 58, "area": "CH", "disciplina": "História Geral", "habilidade": "H13 – Iluminismo / revoluções",
+    "texto": "A Declaração dos Direitos do Homem e do Cidadão (1789) afirmava que os homens nascem livres e iguais em direitos. Dois anos depois, Olympe de Gouges publicou a Declaração dos Direitos da Mulher e da Cidadã, cobrando a extensão desses direitos às mulheres; foi guilhotinada em 1793. Nas colônias francesas, a escravidão só seria abolida em 1794, após a revolta dos escravizados em Saint-Domingue.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Os episódios citados revelam que os princípios revolucionários de 1789",
+    "alternativas": {
+      "A": "foram aplicados de imediato a todos os seres humanos.",
+      "B": "tinham alcance universal no discurso, mas restrito na prática, ampliado por lutas sociais.",
+      "C": "excluíam explicitamente a igualdade de qualquer texto legal.",
+      "D": "foram abandonados pelos revolucionários após 1791.",
+      "E": "inspiraram-se nas reivindicações das mulheres e dos escravizados."
+    },
+    "gabarito": "B",
+    "comentario": "'Homem e cidadão' universal no papel; mulheres e escravizados tiveram de lutar (Gouges; Haiti) para forçar a extensão — contradição interna do liberalismo revolucionário."
+  },
+  {
+    "numero": 59, "area": "CH", "disciplina": "História Geral", "habilidade": "H14 – nazifascismo / totalitarismo",
+    "texto": "Em 2026, celebram-se 120 anos do nascimento de Hannah Arendt. Analisando os regimes totalitários, a filósofa observou que a propaganda não buscava convencer pela verdade, mas criar um mundo coerente e fictício no qual a população, isolada e desorientada, pudesse se refugiar; a mentira repetida tornava-se mais confortável do que a realidade contraditória.",
+    "fonte": "Texto elaborado para o simulado (paráfrase de ideias de *Origens do Totalitarismo*, 1951).",
+    "comando": "De acordo com a análise descrita, o sucesso da propaganda totalitária dependia",
+    "alternativas": {
+      "A": "da apresentação de provas científicas de suas afirmações.",
+      "B": "do debate público aberto entre diferentes correntes de opinião.",
+      "C": "da oferta de uma narrativa coerente a indivíduos isolados e inseguros.",
+      "D": "da redução do número de meios de comunicação disponíveis.",
+      "E": "da tradição democrática enraizada na sociedade."
+    },
+    "gabarito": "C",
+    "comentario": "Arendt: o totalitarismo prospera sobre a 'massa' atomizada; a ficção coerente substitui a realidade. Debate e provas (A, B) são o oposto."
+  },
+  {
+    "numero": 60, "area": "CH", "disciplina": "História Geral", "habilidade": "H15 – imperialismo / África",
+    "texto": "Na Conferência de Berlim (1884-1885), potências europeias definiram regras para a ocupação da África, traçando fronteiras sem a presença de representantes africanos. Muitos dos limites atuais do continente seguem linhas retas estabelecidas naquele contexto, separando povos de mesma língua e unindo grupos historicamente rivais.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Uma consequência de longo prazo do processo descrito foi",
+    "alternativas": {
+      "A": "a consolidação de Estados nacionais homogêneos na África.",
+      "B": "a persistência de conflitos étnicos e territoriais após as independências.",
+      "C": "a preservação integral das fronteiras dos reinos pré-coloniais.",
+      "D": "a participação africana na definição dos limites coloniais.",
+      "E": "a rápida industrialização do continente sob domínio europeu."
+    },
+    "gabarito": "B",
+    "comentario": "Fronteiras artificiais → Estados pós-coloniais atravessados por divisões e rivalidades herdadas da partilha."
+  },
+  {
+    "numero": 61, "area": "CH", "disciplina": "Geografia", "habilidade": "H26 – cartografia / imagens de satélite",
+    "texto": "Imagens de satélite de uma área do Cerrado, obtidas em 2000 e 2025, mostram a substituição de manchas irregulares de vegetação nativa por grandes polígonos regulares de cor uniforme, cortados por estradas retas e pontuados por círculos de cerca de 800 metros de diâmetro.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Os elementos identificados na imagem de 2025 indicam a expansão",
+    "alternativas": {
+      "A": "da mineração a céu aberto com barragens de rejeitos.",
+      "B": "da agricultura mecanizada em larga escala com irrigação por pivô central.",
+      "C": "de áreas urbanas com loteamentos residenciais.",
+      "D": "de unidades de conservação de proteção integral.",
+      "E": "de reflorestamento com espécies nativas do bioma."
+    },
+    "gabarito": "B",
+    "comentario": "Polígonos regulares (talhões), estradas retas e círculos de ~800 m (pivôs centrais) = agronegócio irrigado, típico da fronteira agrícola do Cerrado (Matopiba)."
+  },
+  {
+    "numero": 62, "area": "CH", "disciplina": "Geografia", "habilidade": "H28 – clima urbano / eventos extremos",
+    "texto": "Levantamento do Cemaden indica que, entre 2020 e 2023, o Brasil registrou mais de 7.500 desastres relacionados ao clima, número três vezes superior ao da década de 1990, e que cerca de 150 milhões de pessoas vivem em municípios com áreas de risco geo-hidrológico. As mortes concentram-se em encostas e margens de rios ocupadas por população de baixa renda.",
+    "fonte": "Texto elaborado para o simulado com dados do Cemaden (2024).",
+    "comando": "A concentração das mortes descrita no texto evidencia que os desastres climáticos no Brasil",
+    "alternativas": {
+      "A": "atingem de forma homogênea todas as classes sociais.",
+      "B": "são fenômenos exclusivamente naturais, sem relação com a ocupação do solo.",
+      "C": "expõem a desigualdade socioespacial na produção do risco.",
+      "D": "concentram-se nas áreas rurais de agricultura familiar.",
+      "E": "diminuíram em frequência desde a década de 1990."
+    },
+    "gabarito": "C",
+    "comentario": "O risco é socialmente produzido: quem ocupa encostas e várzeas é quem não tem acesso a terra urbana segura — racismo/injustiça ambiental."
+  },
+  {
+    "numero": 63, "area": "CH", "disciplina": "Geografia", "habilidade": "H29 – energia / transição energética",
+    "texto": "Em 2025, a energia solar ultrapassou a hidrelétrica como segunda maior fonte da matriz elétrica brasileira em capacidade instalada, puxada pela geração distribuída em telhados. Especialistas alertam, porém, que a intermitência da fonte exige investimento em armazenamento e em linhas de transmissão, e que o crescimento se concentra em regiões com maior renda para o investimento inicial.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "Um desafio da expansão solar apontado no texto é",
+    "alternativas": {
+      "A": "a dependência de combustíveis fósseis para o funcionamento dos painéis.",
+      "B": "a ausência total de irradiação solar nas regiões Norte e Nordeste.",
+      "C": "a necessidade de infraestrutura complementar e o risco de acesso desigual.",
+      "D": "a emissão elevada de gases de efeito estufa pela geração fotovoltaica.",
+      "E": "o esgotamento do potencial solar em áreas urbanas."
+    },
+    "gabarito": "C",
+    "comentario": "Intermitência → armazenamento/transmissão; custo inicial → concentração em quem pode investir. Fonte limpa, mas com gargalos técnicos e sociais."
+  },
+  {
+    "numero": 64, "area": "CH", "disciplina": "Geografia", "habilidade": "H23 – urbanização / mobilidade",
+    "texto": "Uma capital brasileira inaugurou, em 2024, um corredor de ônibus de 20 km ligando a periferia ao centro, reduzindo o tempo médio de deslocamento de 95 para 50 minutos. Pesquisa posterior mostrou aumento de matrículas em cursos noturnos entre moradores das áreas atendidas.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "O resultado da pesquisa evidencia que a mobilidade urbana",
+    "alternativas": {
+      "A": "é um problema exclusivamente técnico, sem efeitos sociais.",
+      "B": "condiciona o acesso a outros direitos, como educação e trabalho.",
+      "C": "deve priorizar o transporte individual motorizado.",
+      "D": "é irrelevante para os moradores das áreas periféricas.",
+      "E": "depende unicamente da renda das famílias."
+    },
+    "gabarito": "B",
+    "comentario": "Menos tempo no trajeto → mais tempo e possibilidade de estudar: transporte como direito que viabiliza outros direitos ('direito à cidade')."
+  },
+  {
+    "numero": 65, "area": "CH", "disciplina": "Geografia", "habilidade": "H27 – questão agrária",
+    "texto": "Em 2026 completam-se 30 anos do massacre de Eldorado do Carajás (PA), em que 19 trabalhadores rurais sem-terra foram mortos pela polícia durante uma marcha por desapropriação. Dados do Censo Agropecuário mostram que, no Brasil, menos de 1% dos estabelecimentos rurais concentra cerca de metade da área agrícola do país.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A relação entre o dado do Censo e o episódio citado indica que os conflitos no campo brasileiro têm como raiz",
+    "alternativas": {
+      "A": "a escassez de terras agricultáveis no território nacional.",
+      "B": "a elevada concentração fundiária herdada do processo histórico de ocupação.",
+      "C": "a ausência de legislação sobre a função social da propriedade.",
+      "D": "o excesso de pequenos produtores em áreas urbanas.",
+      "E": "a baixa produtividade da agricultura familiar."
+    },
+    "gabarito": "B",
+    "comentario": "Concentração extrema (sesmarias, Lei de Terras de 1850) gera disputa por terra; a função social existe na CF/88 (C é falsa), mas sua aplicação é o cerne do conflito."
+  },
+  {
+    "numero": 66, "area": "CH", "disciplina": "Geografia", "habilidade": "H30 – globalização / cadeias produtivas",
+    "texto": "Um smartphone vendido no Brasil pode ter sido projetado nos Estados Unidos, com chips produzidos em Taiwan, lítio extraído no Chile, cobalto da República Democrática do Congo, montagem na China e assistência técnica terceirizada na Índia. As etapas de maior valor agregado — projeto e marca — concentram-se nos países centrais.",
+    "fonte": "Texto elaborado para o simulado.",
+    "comando": "A organização produtiva descrita caracteriza",
+    "alternativas": {
+      "A": "a autarquia econômica típica dos Estados nacionais do século XIX.",
+      "B": "a divisão internacional do trabalho sob cadeias globais de valor.",
+      "C": "a substituição de importações promovida por países periféricos.",
+      "D": "o fim das desigualdades entre centro e periferia do sistema.",
+      "E": "a concentração de todas as etapas produtivas em um único país."
+    },
+    "gabarito": "B",
+    "comentario": "Fragmentação das etapas pelo globo com hierarquia de valor (projeto no centro, extração e montagem na periferia) = cadeia global de valor / DIT contemporânea."
+  },
+  {
+    "numero": 67, "area": "CH", "disciplina": "Geografia", "habilidade": "H28 – Amazônia / desmatamento",
+    "texto": "Dados do Inpe indicam que o desmatamento na Amazônia Legal caiu cerca de 12% em 2025 em relação a 2024, mantendo tendência de queda após o pico de 2022. Pesquisadores atribuem o resultado ao reforço da fiscalização e ao embargo de áreas, mas alertam que a degradação florestal por fogo e extração seletiva de madeira continua elevada e não aparece integralmente nas estatísticas de corte raso.",
+    "fonte": "Texto elaborado para o simulado com dados do Inpe/Prodes (2025).",
+    "comando": "O alerta dos pesquisadores indica que a queda do desmatamento",
+    "alternativas": {
+      "A": "encerrou definitivamente a pressão sobre a floresta.",
+      "B": "resultou da expansão da pecuária na região.",
+      "C": "não capta formas de destruição que mantêm a floresta em pé, porém empobrecida.",
+      "D": "ocorreu apesar da ausência de ação do Estado.",
+      "E": "é irrelevante para o equilíbrio climático regional."
+    },
+    "gabarito": "C",
+    "comentario": "Corte raso ≠ degradação: fogo e extração seletiva empobrecem a floresta sem derrubá-la totalmente, escapando ao indicador principal."
+  },
+  {
+    "numero": 68, "area": "CH", "disciplina": "Geografia", "habilidade": "H21 – população / envelhecimento",
+    "texto": "O Censo 2022 revelou que a população brasileira cresceu no ritmo mais lento desde 1872 e que o número de pessoas com 60 anos ou mais aumentou 56% em doze anos. Ao mesmo tempo, a taxa de fecundidade caiu para 1,6 filho por mulher, abaixo do nível de reposição.",
+    "fonte": "Texto elaborado para o simulado com dados do IBGE (Censo 2022).",
+    "comando": "A tendência demográfica descrita impõe ao Brasil o desafio de",
+    "alternativas": {
+      "A": "ampliar a oferta de vagas em creches para atender ao aumento de nascimentos.",
+      "B": "reorganizar sistemas de previdência, saúde e cuidado diante do envelhecimento populacional.",
+      "C": "conter a explosão demográfica por meio de políticas de controle de natalidade.",
+      "D": "incentivar a emigração de jovens para reduzir o desemprego.",
+      "E": "reduzir os investimentos em saúde, dada a diminuição da população."
+    },
+    "gabarito": "B",
+    "comentario": "Transição demográfica avançada: menos nascimentos, mais idosos → pressão sobre previdência, saúde e economia do cuidado."
+  }
+]
