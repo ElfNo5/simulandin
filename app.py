@@ -91,6 +91,11 @@ def tempo_decorrido() -> int:
     return int(time.time() - st.session_state.inicio)
 
 
+def md(texto: str) -> str:
+    """Converte quebras de linha simples em quebras duras (versos/parágrafos)."""
+    return "\n".join(l.rstrip() + ("  " if l.strip() else "") for l in texto.split("\n"))
+
+
 def fmt(seg: int) -> str:
     h, r = divmod(seg, 3600)
     m, s = divmod(r, 60)
@@ -187,7 +192,7 @@ def mostrar_questao(caderno: list[dict], idx: int):
     if idx <= 5:
         st.caption(f"Questões de 01 a 05 (opção {st.session_state.lingua})")
     st.markdown(f"## QUESTÃO {idx:02d}")
-    st.markdown(q["texto"])
+    st.markdown(md(q["texto"]))
     st.caption(q["fonte"])
     st.markdown(f"**{q['comando']}**")
 
@@ -235,7 +240,7 @@ def tela_redacao(resultado: bool = False):
             st.markdown(f"- {i}")
     for t in r["textos_motivadores"]:
         st.markdown(f"**{t['titulo']}**")
-        st.markdown(t["corpo"])
+        st.markdown(md(t["corpo"]))
         st.caption(t["fonte"])
         st.divider()
     if resultado:
