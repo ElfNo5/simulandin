@@ -79,17 +79,28 @@ def init_state():
         # cada participante tem sessão própria, identificada por ?u=<nome> na URL
         u = st.query_params.get("u")
         if u:
-            st.session_state["usuario"] = slug(u)
-            arq = arquivo_usuario()
-            if arq and arq.exists():
-                try:
-                    dados = json.loads(arq.read_text("utf-8"))
-                    for k in CAMPOS_SALVOS:
-                        if k in dados:
-                            st.session_state[k] = dados[k]
-                except Exception:
-                    pass
+            carregar_usuario(u)
     st.session_state["_carregado"] = True
+
+
+def carregar_usuario(u: str) -> bool:
+    """Carrega a prova salva de <u> e retoma o cronômetro de onde parou."""
+    st.session_state["usuario"] = slug(u)
+    arq = arquivo_usuario()
+    if not arq or not arq.exists():
+        return False
+    try:
+        dados = json.loads(arq.read_text("utf-8"))
+    except Exception:
+        return False
+    for k in CAMPOS_SALVOS:
+        if k in dados:
+            st.session_state[k] = dados[k]
+    if st.session_state.fase == "prova":
+        # retoma o tempo de onde parou (pausa), em vez do relógio de parede
+        st.session_state.inicio = time.time() - dados.get("decorrido", 0)
+    st.query_params["u"] = st.session_state["usuario"]
+    return True
 
 
 def salvar():
@@ -97,6 +108,7 @@ def salvar():
     if not arq:
         return
     dados = {k: st.session_state.get(k) for k in CAMPOS_SALVOS}
+    dados["decorrido"] = tempo_decorrido()
     arq.write_text(json.dumps(dados, ensure_ascii=False, indent=1), "utf-8")
 
 
@@ -320,7 +332,11 @@ As questões são originais, escritas no estilo e na distribuição das últimas
                                         index=CORES_CADERNO.index(st.session_state.cor))
 
     if nome and (SAVE_DIR / f"{slug(nome)}.json").exists():
-        st.warning("Já existe uma prova salva com esse nome. Iniciar apaga esse progresso.")
+        st.success("Encontrei uma prova salva com esse nome.")
+        if st.button("↩ Continuar de onde parei", type="primary", width="stretch"):
+            carregar_usuario(nome)
+            st.rerun()
+        st.caption("Ou inicie uma prova nova (apaga a salva):")
 
     if st.button("▶ Iniciar prova (5h30)", type="primary", width="stretch", disabled=not nome.strip()):
         st.session_state.usuario = slug(nome)
@@ -360,6 +376,12 @@ def tela_prova():
         dec = tempo_decorrido()
         if dec < PERMANENCIA_MINIMA:
             st.caption("⚠ Antes de 2h de prova você não poderia sair da sala. Pode encerrar mesmo assim (treino).")
+        if st.button("⏸ Salvar e sair (pausar)", width="stretch"):
+            salvar()
+            st.session_state["_pausada"] = True
+        if st.session_state.get("_pausada"):
+            st.success(f"Salvo. Para continuar, abra o app e digite **{st.session_state.usuario}** "
+                       f"(ou use este mesmo link). O cronômetro retoma de {fmt(tempo_decorrido())}.")
         if st.button("✔ Entregar prova", type="primary", width="stretch"):
             st.session_state["_confirma"] = True
         if st.session_state.get("_confirma"):
